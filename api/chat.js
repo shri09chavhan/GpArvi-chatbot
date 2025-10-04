@@ -2,7 +2,7 @@ import OpenAI from "openai";
 import data from "../websiteData.json" with { type: "json" };
 
 const openai = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY, // Use OpenRouter API key here
+  apiKey: process.env.OPENAI_API_KEY,
   baseURL: "https://openrouter.ai/api/v1",
 });
 
@@ -14,18 +14,19 @@ export default async function handler(req, res) {
   const { question } = req.body;
   if (!question) return res.status(400).json({ error: "Missing question" });
   
+  // Add safety checks for undefined properties
   const relevantChunks = data.filter(d =>
-    d.content.toLowerCase().includes(question.toLowerCase()) ||
-    d.section.toLowerCase().includes(question.toLowerCase())
+    (d.content && d.content.toLowerCase().includes(question.toLowerCase())) ||
+    (d.section && d.section.toLowerCase().includes(question.toLowerCase()))
   );
   
-  const context = relevantChunks.map(c => c.content).join("\n") || "No relevant info found.";
+  const context = relevantChunks.map(c => c.content || '').join("\n") || "No relevant info found.";
   
   try {
     const completion = await openai.chat.completions.create({
-      model: "nvidia/nemotron-nano-9b-v2", // Correct NVIDIA Nemotron model name
+      model: "nvidia/nemotron-nano-9b-v2",
       messages: [
-        { role: "system", content: "You are a very intelligent, worlds most Advance chatbot that answers using the provided context only.Your name is 'Celestial', you are Artificial Intelligence of Government Polytechnic College developed by 'Shrihari Chavhan'." },
+        { role: "system", content: "You are a chatbot that answers using the provided context only." },
         { role: "user", content: `Context:\n${context}\n\nQuestion: ${question}` }
       ],
     });
