@@ -1,5 +1,5 @@
 import OpenAI from "openai";
-import data from "../websiteData.json" assert { type: "json" };
+import data from "../websiteData.json" with { type: "json" };
 
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY, // Use OpenRouter API key here
