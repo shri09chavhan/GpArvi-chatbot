@@ -6,11 +6,11 @@ import { dirname, join } from "path";
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 
-// Read JSON the Node.js-compatible way
+// Read JSON data
 const rawData = readFileSync(join(__dirname, "../websiteData.json"), "utf-8");
 const data = JSON.parse(rawData);
 
-// Flatten nested data consistently with safety checks
+// Flatten nested data with safety checks
 function extractContentRecords(websiteData) {
   const records = [];
   for (const page of websiteData) {
@@ -40,11 +40,11 @@ function extractContentRecords(websiteData) {
   return records;
 }
 
-// Search content, headings, and titles case-insensitively
+// Keyword-based fallback search (Replace with semantic search for better results)
 function searchRelevantChunks(records, question) {
   if (!question) return [];
   
-  // Normalize: lowercase, remove non-alphanumerics, collapse whitespace
+  // Normalize string for matching
   const prepare = str =>
     (str || "")
       .toLowerCase()
@@ -53,14 +53,22 @@ function searchRelevantChunks(records, question) {
       .trim();
 
   const q = prepare(question);
-  console.log("Question (normalized):", q); // Moved inside function scope
 
+  // TODO: Replace this with semantic search for better results
   return records.filter(item =>
     prepare(item.content).includes(q) ||
     prepare(item.heading).includes(q) ||
     prepare(item.title).includes(q)
   );
 }
+
+/*
+  // Example placeholder for semantic search using embeddings
+  // async function searchRelevantChunksSemantic(records, question) {
+  //   // Get embedding for question and all chunks, then compute cosine similarity
+  //   // Return the top-N most similar chunks
+  // }
+*/
 
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
@@ -74,30 +82,20 @@ export default async function handler(req, res) {
 
     const { question } = req.body ?? {};
     if (!question || typeof question !== "string" || !question.trim())
-      return res
-        .status(400)
-        .json({ error: "Missing or invalid 'question' in request body." });
+      return res.status(400).json({ error: "Missing or invalid 'question' in request body." });
 
     let contentRecords;
     try {
       contentRecords = extractContentRecords(data);
-      console.log(`Extracted ${contentRecords.length} content records`);
     } catch (error) {
       console.error("Error extracting content from data:", error);
-      return res
-        .status(500)
-        .json({ error: "Could not parse website data properly." });
+      return res.status(500).json({ error: "Could not parse website data properly." });
     }
 
+    // Get all relevant chunks (keyword-based for now; see semantic search note above)
     const relevantChunks = searchRelevantChunks(contentRecords, question);
-    console.log(`Found ${relevantChunks.length} relevant chunks`);
     
-    // Log matched chunks properly
-    relevantChunks.forEach(chunk => {
-      console.log("Matched chunk:", chunk);
-    });
-
-    // Limit number of chunks for token length safety
+    // Limit number of chunks for token safety
     const maxChunks = 8;
     const context = relevantChunks
       .slice(0, maxChunks)
@@ -113,20 +111,29 @@ export default async function handler(req, res) {
       )
       .join("\n\n") || "No relevant info found.";
 
-    // Enhanced error handling for OpenAI API call
+    // System prompt for deep synthesis and reasoning
+    const systemPrompt =
+      `You are Celestial, the official AI assistant of Government Polytechnic Arvi, developed by Shrihari Chavhan.
+Your job is to carefully read and analyze all provided context, not just keyword matches.
+- Synthesize relevant information from all sections, combining details and reasoning logically.
+- If the data is incomplete or unclear, state this clearly.
+- Only answer using the provided context. Do not make up information.
+- If no answer is possible, respond with: your words that you dont find any relatable information. 
+- For every answer, explain your reasoning step by step before providing the final answer.`;
+
     let completion;
     try {
       completion = await openai.chat.completions.create({
-        model: "nvidia/nemotron-nano-9b-v2",
+        model: "nvidia/nemotron-nano-9b-v2", // You can change to a larger model if you wish
         messages: [
           {
             role: "system",
-            content:
-              "You are Celestial, the official AI assistant of Government Polytechnic Arvi, developed by Shrihari Chavhan. Answer politely " +
-              "and precisely only using provided official college data. If no relevant information is found, respond exactly with: " +
-              "'No info found in college data.'",
+            content: systemPrompt,
           },
-          { role: "user", content: `Context:\n${context}\n\nQuestion: ${question}` },
+          {
+            role: "user",
+            content: `Context:\n${context}\n\nQuestion: ${question}\n\nCarefully analyze the context above. Explain your reasoning step by step, and then provide your final answer.`,
+          },
         ],
         temperature: 0.2,
         max_tokens: 1000,
