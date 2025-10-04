@@ -1,38 +1,34 @@
-// api/chat.js
 import OpenAI from "openai";
+// Ensure Node.js 20+ and "type": "module" in package.json for this import attribute syntax
 import data from "../websiteData.json" with { type: "json" };
 
 /**
- * Utility to robustly flatten all possible text content from a complex nested website data structure
- * Supports both arrays of sections, direct content, and ignores missing/null props
+ * Flatten nested data consistently with safety checks.
  */
 function extractContentRecords(websiteData) {
   const records = [];
-
   for (const page of websiteData) {
-    const title = page.title || "";
-    const url = page.url || "";
+    const title = page.title ?? "";
+    const url = page.url ?? "";
 
-    // For HTML or document types with sections array
     if (Array.isArray(page.sections)) {
       for (const section of page.sections) {
-        if (typeof section.content === "string") {
+        // Filter for only string contents to avoid errors
+        if (typeof section.content === "string" && section.content.trim()) {
           records.push({
             title,
             url,
-            heading: section.heading || "",
-            content: section.content,
+            heading: section.heading ?? "",
+            content: section.content.trim(),
           });
         }
       }
-    }
-    // For direct PDF or document-level content
-    else if (typeof page.content === "string") {
+    } else if (typeof page.content === "string" && page.content.trim()) {
       records.push({
         title,
         url,
         heading: "",
-        content: page.content,
+        content: page.content.trim(),
       });
     }
   }
@@ -40,14 +36,13 @@ function extractContentRecords(websiteData) {
 }
 
 /**
- * Safely searches all fields for the user's question (case-insensitive).
- * Returns an array of all matching content records.
+ * Search content, headings, and titles case-insensitively.
  */
 function searchRelevantChunks(records, question) {
   if (!question) return [];
   const q = question.toLowerCase();
   return records.filter(
-    item =>
+    (item) =>
       (item.content && item.content.toLowerCase().includes(q)) ||
       (item.heading && item.heading.toLowerCase().includes(q)) ||
       (item.title && item.title.toLowerCase().includes(q))
@@ -61,8 +56,73 @@ const openai = new OpenAI({
 
 export default async function handler(req, res) {
   try {
-    // 1. Method Check
-    if (req.method !== "POST") {
+    if (req.method !== "POST")
+      return res.status(405).json({ error: "Method not allowed" });
+
+    const { question } = req.body ?? {};
+    if (!question || typeof question !== "string" || !question.trim())
+      return res
+        .status(400)
+        .json({ error: "Missing or invalid 'question' in request body." });
+
+    // Extract data carefully with error handling
+    let contentRecords;
+    try {
+      contentRecords = extractContentRecords(data);
+    } catch (error) {
+      console.error("Error extracting content from data:", error);
+      return res
+        .status(500)
+        .json({ error: "Could not parse website data properly." });
+    }
+
+    const relevantChunks = searchRelevantChunks(contentRecords, question);
+
+    // Limit number of chunks for token length safety
+    const maxChunks = 8;
+    const context = relevantChunks
+      .slice(0, maxChunks)
+      .map(
+        (c) =>
+          [
+            c.title ? `Title: ${c.title}` : "",
+            c.heading ? `Heading: ${c.heading}` : "",
+            c.content,
+          ]
+            .filter(Boolean)
+            .join("\n")
+      )
+      .join("\n\n") || "No relevant info found.";
+
+    const completion = await openai.chat.completions.create({
+      model: "nvidia/nemotron-nano-9b-v2",
+      messages: [
+        {
+          role: "system",
+          content:
+            "You are Celestial, the official AI assistant of Government Polytechnic Arvi, developed by Shrihari Chavhan. Answer politely " +
+            "and precisely only using provided official college data. If no relevant information is found, respond exactly with: " +
+            "'No info found in college data.'",
+        },
+        { role: "user", content: `Context:\n${context}\n\nQuestion: ${question}` },
+      ],
+      temperature: 0.2,
+      max_tokens: 1000,
+    });
+
+    // Safely grab the response, fallback on default message
+    const answer =
+      completion.choices?.[0]?.message?.content?.trim() ?? "No response from AI.";
+
+    return res.status(200).json({ answer });
+  } catch (err) {
+    console.error("Unhandled API error:", err);
+    return res.status(500).json({
+      error: "Server error",
+      details: err?.message ?? "Unknown error",
+    });
+  }
+}
       return res.status(405).json({ error: "Method not allowed" });
     }
 
