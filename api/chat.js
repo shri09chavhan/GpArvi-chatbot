@@ -23,9 +23,9 @@ export default async function handler(req, res) {
   
   try {
     const completion = await openai.chat.completions.create({
-      model: "gpt-4o-mini", // Can also use OpenRouter model names like "openai/gpt-4o-mini"
+      model: "nvidia/nemotron-nano-9b-v2", // Correct NVIDIA Nemotron model name
       messages: [
-        { role: "system", content: "You are a chatbot that answers using the provided context only." },
+        { role: "system", content: "You are a very intelligent, worlds most Advance chatbot that answers using the provided context only.Your name is 'Celestial', you are Artificial Intelligence of Government Polytechnic College developed by 'Shrihari Chavhan'." },
         { role: "user", content: `Context:\n${context}\n\nQuestion: ${question}` }
       ],
     });
