@@ -1,69 +1,918 @@
 [
-  {
-    "url": "https://gparvi.ac.in",
-    "type": "html",
-    "title": "Government Polytechnic Arvi",
-    "images": [
-      "https://gparvi.ac.in/index_files/orenge_strip(1).gif",
-      "https://gparvi.ac.in/images/dte_logo.gif",
-      "https://gparvi.ac.in/images/arvi_logo.jpg",
-      "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
-      "https://gparvi.ac.in/index_files/yellow_cornar2.gif",
-      "https://gparvi.ac.in/images/home1.jpg",
-      "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
-      "https://gparvi.ac.in/index_files/yellow_cornar2.gif",
-      "https://gparvi.ac.in/index_files/right_corner.gif",
-      "https://gparvi.ac.in/index_files/icon1.gif",
-      "https://gparvi.ac.in/index_files/left_corner.gif",
-      "https://gparvi.ac.in/index_files/dot.gif",
-      "https://gparvi.ac.in/images/new.gif",
-      "https://gparvi.ac.in/index_files/dot.gif",
-      "https://gparvi.ac.in/images/new.gif",
-      "https://gparvi.ac.in/index_files/dot.gif",
-      "https://gparvi.ac.in/images/new.gif",
-      "https://gparvi.ac.in/index_files/dot.gif",
-      "https://gparvi.ac.in/images/new.gif",
-      "https://gparvi.ac.in/index_files/dot.gif",
-      "https://gparvi.ac.in/images/new.gif",
-      "https://gparvi.ac.in/index_files/dot.gif",
-      "https://gparvi.ac.in/images/new.gif",
-      "https://gparvi.ac.in/index_files/dot.gif",
-      "https://gparvi.ac.in/index_files/dot.gif",
-      "https://gparvi.ac.in/index_files/dot.gif",
-      "https://gparvi.ac.in/images/new.gif",
-      "https://gparvi.ac.in/images/new.gif",
-      "https://gparvi.ac.in/index_files/dot.gif",
-      "https://gparvi.ac.in/images/new.gif",
-      "https://gparvi.ac.in/images/new.gif",
-      "https://gparvi.ac.in/gpa.jpg",
-      "https://gparvi.ac.in/dte   ro.png",
-      "https://gparvi.ac.in/index_files/right_corner.gif",
-      "https://gparvi.ac.in/index_files/icon2.gif",
-      "https://gparvi.ac.in/index_files/left_corner.gif",
-      "https://gparvi.ac.in/index_files/arrow4.gif",
-      "https://gparvi.ac.in/index_files/arrow4.gif",
-      "https://gparvi.ac.in/index_files/arrow4.gif",
-      "https://gparvi.ac.in/index_files/arrow4.gif",
-      "https://gparvi.ac.in/index_files/arrow4.gif",
-      "https://gparvi.ac.in/index_files/arrow4.gif",
-      "https://gparvi.ac.in/index_files/arrow4.gif"
-    ],
-    "sections": [
-      {
-        "heading": "",
-        "content": "Government Polytechnic Arvi | Home | Contact | Check Mail | Government Polytechnic, Arvi Approved by AICTE, Recognised by DTE & Affiliated to MSBTE e-mail : principal.gparvi@dtemaharashtra.gov.in office.gparvi@dtemaharashtra.gov.in Menu About Institute Principal's Desk Organizational Structure Office Staff Deparments Chemical Engg. Civil Engg. Computer Engg. Electrical Engg. Electronics & Comm. Engg. Mechanical Engg. Science & Humanities Workshop CELL Student Guidance & Grievancess Redressal Cell Student Discipline & Anti Ragging Committee Anti Ragging Squad Girls & Women Development Cell Institute Level Curriculum Implementation Unit Training & Placement Introduction Placement Information Events Important Links Diploma Admission Procedure Students Grievances Maharashtra Government DTE MSBTE RO Nagpur MPSC AICTE ISTE Student's Chapter IEI IETE ISTE Contact Us EOA Reports EOA REPORT 25-26 EOA REPORT 24-25 EOA REPORT 23-24 EOA REPORT 22-23 EOA REPORT 21-22 EOA REPORT 20-21 EOA REPORT 19-20 EOA REPORT 18-19 Gallary Welcome To Government Polytechnic Arvi Latest Updates Additional INSTITUTE LEVEL round of admission for Direct second year engineering diploma 2025-26 Observance of Partition Horrors Remembrance Day Link to download the play The link to download the exhibition Partition_Horrors_Remembrance_Day.pdf Comparative Statement for new website development for Institute date 06/05/2025 Quotation for devlopment of new Website Inviting of sealed quotation for the supply of Furniture as per list to CDTP through G.P ArviP Blood donation Camp news URL NBA Accreditattion status(CH,ME,CE) Quotation to supply of Chemicals Additional Institute level Round ( Direct Second Year Engineering Admission 2025-26) \" Essay competition on the topic \"ABHIJIT MARATHI\" My Expectations \"LINK. Vision To become a globally recognised technical educational institute, committed to produce competent manpower, fulfilling needs of industry and society. Mission *Impart technical knowledge effectively through well qualified and trained faculty. *Contribute towards curriculum and resource updating, incorporating latest technological trends. *Equip students with technical skills and intellectual capability to meet current industrial needs. *Inculcate values and ethics in students for contribution towards social development Other Links Programs Offered Community Services RTI Student’s Grievances Citizen's Charter Departmental Newsletter Previous Audit Statement Copyright 2025 @ Govt. Polytechnic, Arvi All rights reserved."
-      }
-    ]
-  },
-  {
-    "url": "https://gparvi.ac.in/about.html",
-    "type": "html",
-    "title": "Government Polytechnic Arvi",
-    "images": [
-      "https://gparvi.ac.in/index_files/orenge_strip(1).gif",
-      "https://gparvi.ac.in/images/dte_logo.gif",
-      "https://gparvi.ac.in/images/arvi_logo.jpg",
-      "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
+    {
+        "url": "https://gparvi.ac.in",
+        "type": "html",
+        "title": "Government Polytechnic Arvi",
+        "images": [
+            "https://gparvi.ac.in/index_files/orenge_strip(1).gif",
+            "https://gparvi.ac.in/images/dte_logo.gif",
+            "https://gparvi.ac.in/images/arvi_logo.jpg",
+            "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
+            "https://gparvi.ac.in/index_files/yellow_cornar2.gif",
+            "https://gparvi.ac.in/images/home1.jpg",
+            "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
+            "https://gparvi.ac.in/index_files/yellow_cornar2.gif",
+            "https://gparvi.ac.in/index_files/right_corner.gif",
+            "https://gparvi.ac.in/index_files/icon1.gif",
+            "https://gparvi.ac.in/index_files/left_corner.gif",
+            "https://gparvi.ac.in/index_files/dot.gif",
+            "https://gparvi.ac.in/images/new.gif",
+            "https://gparvi.ac.in/index_files/dot.gif",
+            "https://gparvi.ac.in/images/new.gif",
+            "https://gparvi.ac.in/index_files/dot.gif",
+            "https://gparvi.ac.in/images/new.gif",
+            "https://gparvi.ac.in/index_files/dot.gif",
+            "https://gparvi.ac.in/images/new.gif",
+            "https://gparvi.ac.in/index_files/dot.gif",
+            "https://gparvi.ac.in/images/new.gif",
+            "https://gparvi.ac.in/index_files/dot.gif",
+            "https://gparvi.ac.in/images/new.gif",
+            "https://gparvi.ac.in/index_files/dot.gif",
+            "https://gparvi.ac.in/index_files/dot.gif",
+            "https://gparvi.ac.in/index_files/dot.gif",
+            "https://gparvi.ac.in/images/new.gif",
+            "https://gparvi.ac.in/images/new.gif",
+            "https://gparvi.ac.in/index_files/dot.gif",
+            "https://gparvi.ac.in/images/new.gif",
+            "https://gparvi.ac.in/images/new.gif",
+            "https://gparvi.ac.in/gpa.jpg",
+            "https://gparvi.ac.in/dte   ro.png",
+            "https://gparvi.ac.in/index_files/right_corner.gif",
+            "https://gparvi.ac.in/index_files/icon2.gif",
+            "https://gparvi.ac.in/index_files/left_corner.gif",
+            "https://gparvi.ac.in/index_files/arrow4.gif",
+            "https://gparvi.ac.in/index_files/arrow4.gif",
+            "https://gparvi.ac.in/index_files/arrow4.gif",
+            "https://gparvi.ac.in/index_files/arrow4.gif",
+            "https://gparvi.ac.in/index_files/arrow4.gif",
+            "https://gparvi.ac.in/index_files/arrow4.gif",
+            "https://gparvi.ac.in/index_files/arrow4.gif"
+        ],
+        "sections": [
+            {
+                "heading": "",
+                "content": "Government Polytechnic Arvi | Home | Contact | Check Mail | Government Polytechnic, Arvi Approved by AICTE, Recognised by DTE & Affiliated to MSBTE e-mail : principal.gparvi@dtemaharashtra.gov.in office.gparvi@dtemaharashtra.gov.in Menu About Institute Principal's Desk Organizational Structure Office Staff Deparments Chemical Engg. Civil Engg. Computer Engg. Electrical Engg. Electronics & Comm. Engg. Mechanical Engg. Science & Humanities Workshop CELL Student Guidance & Grievancess Redressal Cell Student Discipline & Anti Ragging Committee Anti Ragging Squad Girls & Women Development Cell Institute Level Curriculum Implementation Unit Training & Placement Introduction Placement Information Events Important Links Diploma Admission Procedure Students Grievances Maharashtra Government DTE MSBTE RO Nagpur MPSC AICTE ISTE Student's Chapter IEI IETE ISTE Contact Us EOA Reports EOA REPORT 25-26 EOA REPORT 24-25 EOA REPORT 23-24 EOA REPORT 22-23 EOA REPORT 21-22 EOA REPORT 20-21 EOA REPORT 19-20 EOA REPORT 18-19 Gallary Welcome To Government Polytechnic Arvi Latest Updates Additional INSTITUTE LEVEL round of admission for Direct second year engineering diploma 2025-26 Observance of Partition Horrors Remembrance Day Link to download the play The link to download the exhibition Partition_Horrors_Remembrance_Day.pdf Comparative Statement for new website development for Institute date 06/05/2025 Quotation for devlopment of new Website Inviting of sealed quotation for the supply of Furniture as per list to CDTP through G.P ArviP Blood donation Camp news URL NBA Accreditattion status(CH,ME,CE) Quotation to supply of Chemicals Additional Institute level Round ( Direct Second Year Engineering Admission 2025-26) \" Essay competition on the topic \"ABHIJIT MARATHI\" My Expectations \"LINK. Vision To become a globally recognised technical educational institute, committed to produce competent manpower, fulfilling needs of industry and society. Mission *Impart technical knowledge effectively through well qualified and trained faculty. *Contribute towards curriculum and resource updating, incorporating latest technological trends. *Equip students with technical skills and intellectual capability to meet current industrial needs. *Inculcate values and ethics in students for contribution towards social development Other Links Programs Offered Community Services RTI Student’s Grievances Citizen's Charter Departmental Newsletter Previous Audit Statement Copyright 2025 @ Govt. Polytechnic, Arvi All rights reserved."
+            }
+        ]
+    },
+    {
+        "url": "https://gparvi.ac.in/about.html",
+        "type": "html",
+        "title": "Government Polytechnic Arvi",
+        "images": [
+            "https://gparvi.ac.in/index_files/orenge_strip(1).gif",
+            "https://gparvi.ac.in/images/dte_logo.gif",
+            "https://gparvi.ac.in/images/arvi_logo.jpg",
+            "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
+            "https://gparvi.ac.in/index_files/yellow_cornar2.gif",
+            "https://gparvi.ac.in/images/home1.jpg",
+            "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
+            "https://gparvi.ac.in/index_files/yellow_cornar2.gif"
+        ],
+        "sections": [
+            {
+                "heading": "",
+                "content": "Government Polytechnic Arvi | Home | Contact | Check Mail | Government Polytechnic, Arvi Approved by AICTE, Recognised by DTE & Affiliated to MSBTE e-mail : principal.gparvi@dtemaharashtra.gov.in office.gparvi@dtemaharashtra.gov.in About Us About Institute Principal's Desk Principal's Profile Organizational Structure Office Staff Deparments Chemical Engg. Civil Engg. Computer Engg. Electrical Engg. Electronics & Comm. Engg. Mechanical Engg. Science & Humanities Workshop CELL Student Guidance & Grievancess Redressal Cell Student Discipline & Anti Ragging Committee Anti Ragging Squad Girls & Women Development Cell Institute Level Curriculum Implementation Unit Training & Placement Introduction Placement Information Events Important Links Diploma Admission Procedure Maharashtra Government DTE MSBTE RO Nagpur MPSC AICTE ISTE Scholarship Portal Student's Chapter IEI IETE ISTE Contact Us Gallary About Us Govt. Polytechnic Arvi was established on 11th June 1990 to promote technical education in rural areas of Maharashtra. It is situated in the campus of 8.27 hectares and having total built up area 7153.09 SQ.M. The institute offers Six Engineering diploma courses viz. Civil, Mechanical, Electrical, Electronics & communication, Computer and Chemical engineering. Institute is regularly conducting various short term faculty development training programmes sponsored and approved by MSBTE, AICTE and ISTE. The institute is also involved in testing and consultancy services to industry, public sectors, Government organizations and private contractors. Institute contributes for rural development through community polytechnic schemes (CDTP). Copyright ©Government Polytechnic Arvi All Rights Reserved"
+            }
+        ]
+    },
+    {
+        "url": "https://gparvi.ac.in/desk.html",
+        "type": "html",
+        "title": "Government Polytechnic Arvi",
+        "images": [
+            "https://gparvi.ac.in/index_files/orenge_strip(1).gif",
+            "https://gparvi.ac.in/images/dte_logo.gif",
+            "https://gparvi.ac.in/images/arvi_logo.jpg",
+            "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
+            "https://gparvi.ac.in/index_files/yellow_cornar2.gif",
+            "https://gparvi.ac.in/images/home1.jpg",
+            "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
+            "https://gparvi.ac.in/index_files/yellow_cornar2.gif",
+            "https://gparvi.ac.in/principal- gparvi.jpg"
+        ],
+        "sections": [
+            {
+                "heading": "",
+                "content": "Government Polytechnic Arvi | Home | Contact | Check Mail | Government Polytechnic, Arvi Approved by AICTE, Recognised by DTE & Affiliated to MSBTE e-mail : principal.gparvi@dtemaharashtra.gov.in office.gparvi@dtemaharashtra.gov.in About Us About Institute Principal's Desk Principal's Profile Organizational Structure Office Staff Deparments Chemical Engg. Civil Engg. Computer Engg. Electrical Engg. Electronics & Comm. Engg. Mechanical Engg. Science & Humanities Workshop CELL Student Guidance & Grievancess Redressal Cell Student Discipline & Anti Ragging Committee Anti Ragging Squad Girls & Women Development Cell Institute Level Curriculum Implementation Unit Training & Placement Introduction Placement Information Events Important Links Diploma Admission Procedure Maharashtra Government DTE MSBTE RO Nagpur MPSC AICTE ISTE Scholarship Portal Student's Chapter IEI IETE ISTE Contact Us Gallary About Us At the outset I welcome you to the official website of Government Polytechnic, Arvi. Government Polytechnic, Arvi is established in the year 1990 by Govt. of Maharashtra State, India. It is spread over a wide campus of 8.28 hectare having all the necessary infrastructure including hostels for boys and girls. The institute is affiliated to Maharashtra State Board of Technical Education (MSBTE).The Institute offers 3 years post SSC Diploma courses in Civil Engg., Mechanical Engg., Electrical Engg., Computer Engg., Electronics & Communication Engg., and Chemical Engg. All these courses are approved by All India Council for Technical Education (AICTE) of Govt. of India. With a vision to become a globally recognized technical educational institute the institute is committed to produce competent manpower, fulfilling needs of industry and society. I feel proud to inform you that three courses viz. Civil Engg., Mechanical Engg., and Chemical Engg. are accredited by National Board of Accreditation(NBA) and proposal for further accreditation of two courses viz. Computer Engg. and Electrical Engg. has been accepted by NBA. The institute consistently strives with a mission to impart technical knowledge effectively through well qualified and trained faculty, contribute towards curriculum and resource updating, incorporating latest technological trends so as to equip students with technical skills and intellectual capability to meet current industrial needs. In addition, utmost care is taken to inculcate values and ethics in students for contribution towards social development through their participation in co-curricular and extra-curricular activities. Govt. Polytechnic, Arvi has established good rapport with industries resulting into job placement of students in both off-campus and on-campus recruitment drives every year. Moreover, majority of students have succeeded in securing admissions to reputed engineering colleges of the state. The major advantage of doing Diploma in Engineering is that the students get direct admissions to second year of B.E./B.Tech. without any entrance test resulting into considerable saving in cost of education. Being a Govt. of Maharashtra institute the admission fee is minimal. Moreover, there are numerous scholarship schemes of State and Central Government from which the students of this institute are benefitted. So, I invite all the prospective aspirants to take advantage of this golden opportunity and transform your dreams into a rewarding engineering career at Govt. Polytechnic, Arvi. I wish you a fruitful surfing of this website. Thank you. DIPLOMA IN ENGINEERING--->GOVT. POLYTECHNIC, ARVI ---> A DOORWAY TO BRIGHT CAREER Dr.V.R.MANKAR Principal Copyright ©Government Polytechnic Arvi All Rights Reserved"
+            }
+        ]
+    },
+    {
+        "url": "https://gparvi.ac.in/Mankarsir.pdf",
+        "type": "pdf",
+        "title": "Mankarsir.pdf",
+        "content": "[Page 1]\nFull Name: - Dr. Vijay Rangraoji Mankar Principal , Government Polytechnic, Arvi Date of Birth: - 20th SEP 1964 Place of Birth : Warud , Distt: Amravati Qualification: -B.E. (Electronics & Power Engg), M.Tech. (Electronics) Ph.D.(Electronics Engg.) Experience: - About 34 Years. of Teaching Experience (about 7 years in Engg colleges and 27 years in Polytechnics) Head of the Dept.(Electronics Engg.) -Govt.Polytechnic, (Since Feb. 1996 to 2012) Deputy Secretary, RBTE, Pune, (20 12-2016) Head of the Dept.(Electronics Engg.) -Govt.Polytechnic, (2016 to 2018) Principal, Government Polytechnic, (2018 to till date) Working as I/C Joint Director of Amravati Region, (Since 11.10.2021) Research Publications & Patents: - More than 50 Papers have published in International referred Journals. More than 20 Papers are presented & published in conferences. Awards & Achievements: - Received Best Teacher Award by State of Maharashtra.",
+        "size_bytes": 113850
+    },
+    {
+        "url": "https://gparvi.ac.in/org_str.html",
+        "type": "html",
+        "title": "Government Polytechnic Arvi",
+        "images": [
+            "https://gparvi.ac.in/index_files/orenge_strip(1).gif",
+            "https://gparvi.ac.in/images/dte_logo.gif",
+            "https://gparvi.ac.in/images/arvi_logo.jpg",
+            "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
+            "https://gparvi.ac.in/index_files/yellow_cornar2.gif",
+            "https://gparvi.ac.in/images/home1.jpg",
+            "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
+            "https://gparvi.ac.in/index_files/yellow_cornar2.gif",
+            "https://gparvi.ac.in/images/structure.jpg"
+        ],
+        "sections": [
+            {
+                "heading": "",
+                "content": "Government Polytechnic Arvi | Home | Contact | Check Mail | Government Polytechnic, Arvi Approved by AICTE, Recognised by DTE & Affiliated to MSBTE e-mail : principal.gparvi@dtemaharashtra.gov.in office.gparvi@dtemaharashtra.gov.in About Us About Institute Principal's Desk Principal's Profile Organizational Structure Office Staff Deparments Chemical Engg. Civil Engg. Computer Engg. Electrical Engg. Electronics & Comm. Engg. Mechanical Engg. Science & Humanities Workshop CELL Student Guidance & Grievancess Redressal Cell Student Discipline & Anti Ragging Committee Anti Ragging Squad Girls & Women Development Cell Institute Level Curriculum Implementation Unit Training & Placement Introduction Placement Information Events Important Links Maharashtra Government DTE MSBTE RO Nagpur MPSC AICTE ISTE Scholarship Portal Student's Chapter IEI IETE ISTE Contact Us Gallary Organizational Strucutre Copyright ©Government Polytechnic Arvi All Rights Reserved"
+            }
+        ]
+    },
+    {
+        "url": "https://gparvi.ac.in/office.pdf",
+        "type": "pdf",
+        "title": "office.pdf",
+        "content": "[PDF - no extractable text]",
+        "size_bytes": 1876169
+    },
+    {
+        "url": "https://gparvi.ac.in/chemical.html",
+        "type": "html",
+        "title": "Government Polytechnic Arvi",
+        "images": [
+            "https://gparvi.ac.in/index_files/orenge_strip(1).gif",
+            "https://gparvi.ac.in/images/dte_logo.gif",
+            "https://gparvi.ac.in/images/arvi_logo.jpg",
+            "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
+            "https://gparvi.ac.in/index_files/yellow_cornar2.gif",
+            "https://gparvi.ac.in/images/home1.jpg",
+            "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
+            "https://gparvi.ac.in/index_files/yellow_cornar2.gif",
+            "https://gparvi.ac.in/chem/saurabh.JPG"
+        ],
+        "sections": [
+            {
+                "heading": "",
+                "content": "Government Polytechnic Arvi | Home | Contact | Check Mail | Government Polytechnic, Arvi Approved by AICTE, Recognised by DTE & Affiliated to MSBTE e-mail : principal.gparvi@dtemaharashtra.gov.in office.gparvi@dtemaharashtra.gov.in About Us About Institute Principal's Desk Principal's Profile Organizational Structure Office Staff Deparments Chemical Engg. Civil Engg. Computer Engg. Electrical Engg. Electronics & Comm. Engg. Mechanical Engg. Science & Humanities Workshop CELL Student Guidance & Grievancess Redressal Cell Student Discipline & Anti Ragging Committee Anti Ragging Squad Girls & Women Development Cell Institute Level Curriculum Implementation Unit Training & Placement Introduction Placement Information Events Important Links Diploma Admission Procedure Maharashtra Government DTE MSBTE RO Nagpur MPSC AICTE ISTE Scholarship Portal Student's Chapter IEI IETE ISTE Contact Us Gallary Chemical Engineering Department Congratulations!! Saurabh R. Shinde All Over Maharashtra First Rank in 2018 (Chemical Engg.) Vision: To produce competent technical manpower in Chemical Engineering for fulfilling needs of industry and society. Mission: 1)To impart need based technical education in Chemical Engineering. 2) To modernize departmental laboratories and facilities. 3) To train faculty and staff to meet challenges in socio-technical environment. 4) To inculcate values and ethics among students. Program Educational Objectives (PEOs): PEO1. Provide socially responsible, environment friendly broad-based solutions to Chemical Engineering related problems adapting professional ethics. PEO2. Adapt state-of-the-art of Chemical Engineering by implementing advanced technologies to work in multi-disciplinary work environments. PEO3. Solve broad-based problems individually and as a team member communicating effectively in the world of work. Program Outcomes(POs): PO1. Basic and Discipline specific knowledge: Apply knowledge of basic mathematics, science and engineering fundamentals and engineering specialization to solve the Chemical Engineering problems PO2. Problem analysis : Identify and analyse well-defined Chemical Engineering problems using codified standard methods. PO3. Design/ development of solutions: Design solutions for well-defined technical problems and assist with the design of systems components or processes to meet specified needs in field of Chemical Engineering. PO4. Engineering Tools, Experimentation and Testing: Apply modern Chemical engineering tools and appropriate technique to conduct standard tests and measurements. PO5. Engineering practices for society, sustainability and environment: Apply appropriate technology in context of society, sustainability, environment and ethical practices in field of Chemical Engineering. PO6. Project Management: Use engineering management principles individually, as a team member or a leader to manage projects and effectively communicate about well-defined Chemical Engineering activities PO7. Life-long learning: Ability to analyse individual needs and engage in updating in the context of technological changes in Chemical Engineering and allied industry Program Specific Outcomes (PSOs) PSO1. Chemical engineering equipment: Operate equipment and materials effectively and efficiently used in chemical reactions. PSO2. Material management and quality control: Manage chemicals and equipment to produce quality chemical products. Departmental Laboratories: Sr. No Name of Lab 1 Petro Chemical Laboratory And Instrumentation and Control Lab 2 Mass and Heat Transfer Laboratory 3 Fluid flow and Mechanical Operation Laboratory 4 Project Laboratory/Mass Transfer 5 Computer Lab 6 Chemical Process Technology Curriculum: Odd Semester Even Semester I Scheme W.e.f 2019-20 SEM-I SEM-II SEM-III SEM-IV SEM-V SEM-VI Time Table: Odd Semester Even Semester 2020-21 2020-21 2021-22 2021-22 2022-23 2022-23 Achievements: Student Achievements Faculty Achievements 2019-20 2019-20 2020-21 2020-21 2021-22 2021-22 Result Analysis: Odd Semester Even Semester 2018-19 2018-19 2019-20 2019-20 2020-21 2020-21 2021-22 2021-22 Expert Lectures & Industrial Visits: Expert Lectures Industrial Visits 2019-20 2019-20 2020-21 2020-21 2021-22 2021-22 Extra Curricular Activities Organized By Department: Click Here To View Faculty Profile Name Post Email Mobile Detail Profile Dr. M.D.Waghmare HOD mangeshwaghmare@gmail.com 9850378773 Dr. V.U.Ambalkar Lecturer vishalambalkar17@gmail.com 9881093400 Manish C. Lonare Lecturer manishwed@yahoo.co.in 9975055176 View Saphal U. Patil Lecturer saphalp@yahoo.com 9422159890 View Satish P. Soge Lecturer satishsoge24@rediffmail.com 9552437620 View Faculty list(2022-23): 2022-23 Student Roll List(2022-23): Click Here To View Copyright ©Government Polytechnic Arvi All Rights Reserved"
+            }
+        ]
+    },
+    {
+        "url": "https://gparvi.ac.in/civil.html",
+        "type": "html",
+        "title": "Government Polytechnic Arvi",
+        "images": [
+            "https://gparvi.ac.in/index_files/orenge_strip(1).gif",
+            "https://gparvi.ac.in/images/dte_logo.gif",
+            "https://gparvi.ac.in/images/arvi_logo.jpg",
+            "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
+            "https://gparvi.ac.in/index_files/yellow_cornar2.gif",
+            "https://gparvi.ac.in/images/home1.jpg",
+            "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
+            "https://gparvi.ac.in/index_files/yellow_cornar2.gif"
+        ],
+        "sections": [
+            {
+                "heading": "",
+                "content": "Government Polytechnic Arvi | Home | Contact | Check Mail | Government Polytechnic, Arvi Approved by AICTE, Recognised by DTE & Affiliated to MSBTE e-mail : principal.gparvi@dtemaharashtra.gov.in office.gparvi@dtemaharashtra.gov.in About Us About Institute Principal's Desk Principal's Profile Organizational Structure Office Staff Deparments Chemical Engg. Civil Engg. Computer Engg. Electrical Engg. Electronics & Comm. Engg. Mechanical Engg. Science & Humanities Workshop CELL Student Guidance & Grievancess Redressal Cell Student Discipline & Anti Ragging Committee Anti Ragging Squad Girls & Women Development Cell Institute Level Curriculum Implementation Unit Training & Placement Introduction Placement Information Events Important Links Diploma Admission Procedure Maharashtra Government DTE MSBTE RO Nagpur MPSC AICTE ISTE Scholarship Portal Student's Chapter IEI IETE ISTE Contact Us Gallary Civil Engineering Department Vision: To produce competent technical manpower in Civil Engineering for fulfilling needs of Industry & Society. Mission: 1.To impart need based technical education in Civil Engineering. 2.To modernize departmental laboratories and facilities. 3.To train faculty and staff , to meet challenges in socio-technical environment. 4.To inculcate values and ethics among students. Program Educational Objectives(PEOs): The Program Educational Objectives (PEOs) of the Department of Civil Engineering are given below: PEO 1 : Provide socially responsible, environment friendly solutions to Civil engineering related broad-based problems adapting professional ethics. PEO 2 : Adapt state-of-the-art Civil engineering broad-based technologies to work in multidisciplinary work environments. PEO 3 : Solve broad-based problems individually and as a team member communicating effectively in the world of work. Program Outcomes(POs): PO1 Basic and Discipline specific knowledge: Apply knowledge of basic mathematics, science and engineering fundamentals and engineering specialization to solve the Civil Engineering problems PO 2 Problem analysis : Identify and analyse well-defined Civil Engineering problems using codified standard methods. PO3 Design/ development of solutions: An ability to plan and perform experiments and practices and to use the results to solve engineering problems. PO4 Engineering Tools, Experimentation and Testing: : Apply modern Civil engineering tools and appropriate technique to conduct standard tests and measurements. PO5 Engineering practices for society, sustainability and environment: : Apply appropriate technology in context of society, sustainability, environment and ethical practices in field of Civil Engineering. PO6 Project Management: Ability to analyse individual needs and engage in updating in the context of technological changes in Civil Engineering and allied industry PO7 Life-long learning: : Ability to analyse individual needs and engage in updating in the context of technological changes in Civil Engineering and allied industry. Program Specific Outcomes(PSOs): PSO1 Construction Planning and Designing: Perform optimal civil engineering construction, planning and designing activities of desired quality at optimal cost. PSO2 Construction Execution and Maintenance: Execute Civil engineering construction and maintenance using relevant materials and equipment. Departmental Laboratories: Sr. No Name of Lab & Room No 1 Survey Store (Room No. 06) 2 Hydraulics Laboratory (Room No. 17) 3 CAD Laboratory (Room No. 105A) 4 Public Health Engineering Laboratory (Room No. 105) 5 Computer & Internet Center (Room No. 104) 6 Applied Mechanics Laboratory (Room No. 101) 7 Material Testing Laboratory (Room No.11) 8. Geotechnical Engineering Laboratory (Room No.23) 9. Model Room (Room No.214 {A}) Curriculum: Odd Semester Even Semester I Scheme W.e.f 2020-21 SEM-I SEM-II SEM-III SEM-IV SEM-V SEM-VI Time Table: Odd Semester Even Semester 2019-20 2019-20 2020-21 2020-21 2021-22 2021-22 Result Analysis: Odd Semester Even Semester 2019-20 2019-20 2020-21 2020-21 2021-22 2021-22 Expert Lectures & Industrial Visits: Expert Lectures Industrial Visits 2019-20 2019-20 2020-21 2020-21 2021-22 2021-22 Extra Curricular Activitis Organized By Department: Click Here To View Achievements: Student Achievements Faculty Achievements 2019-20 2019-20 2020-21 2020-21 2021-22 2021-22 IRG & Consultancy: Sr.no Particulars Financial Year Staff Members Involved Revenue Generated Faculty list(2022-23): 2022-23 Student Roll List(2022-23): Click Here To View Faculty Profile: Sr.No Name of the faculty Designation Qualification Experience Mobile No. Email-id Link 2 Shri. N. S. Sharma Selection Grade Lecturer B.E. Teachnig :- 26 Yrs 9423607462 nagendrasudarshansharma@gmail.com View 3 Shrimati V. M. Sawale Lecturer B.E. M.Tech. . M.E* Teaching : 12 yrs 8975752560 vaishali.sawale@gmail.com View 4 Shri. D.K.Wankar Lab Assistant ITI 25 Yrs 9657083961 DILIPWANKAR12@GMAIL.COM 5 Shri. Wagh Class IV - 24 Yrs. View Copyright ©Government Polytechnic Arvi All Rights Reserved"
+            }
+        ]
+    },
+    {
+        "url": "https://gparvi.ac.in/computer.html",
+        "type": "html",
+        "title": "Government Polytechnic Arvi",
+        "images": [
+            "https://gparvi.ac.in/index_files/orenge_strip(1).gif",
+            "https://gparvi.ac.in/images/dte_logo.gif",
+            "https://gparvi.ac.in/images/arvi_logo.jpg",
+            "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
+            "https://gparvi.ac.in/index_files/yellow_cornar2.gif",
+            "https://gparvi.ac.in/images/home1.jpg",
+            "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
+            "https://gparvi.ac.in/index_files/yellow_cornar2.gif"
+        ],
+        "sections": [
+            {
+                "heading": "",
+                "content": "Government Polytechnic Arvi | Home | Contact | Check Mail | Government Polytechnic, Arvi Approved by AICTE, Recognised by DTE & Affiliated to MSBTE e-mail : principal.gparvi@dtemaharashtra.gov.in office.gparvi@dtemaharashtra.gov.in About Us About Institute Principal's Desk Principal's Profile Organizational Structure Office Staff Deparments Chemical Engg. Civil Engg. Computer Engg. Electrical Engg. Electronics & Comm. Engg. Mechanical Engg. Science & Humanities Workshop CELL Student Guidance & Grievancess Redressal Cell Student Discipline & Anti Ragging Committee Anti Ragging Squad Girls & Women Development Cell Institute Level Curriculum Implementation Unit Training & Placement Introduction Placement Information Events Important Links Diploma Admission Procedure Maharashtra Government DTE MSBTE RO Nagpur MPSC AICTE ISTE Scholarship Portal Student's Chapter IEI IETE ISTE Contact Us Gallary Computer Engineering Department Vision: To produce competent technical manpower in Computer Science Engineering for fulfilling needs of industry and society Mission: 1.To impart need based technical education in Computer Science Engineering. 2.To modernize departmental laboratories and facilities. 3.To train faculty and staff , to meet challenges in socio-technical environment. 4.To inculcate values and ethics among students. Program Educational Objectives(PEOs): The Program Educational Objectives (PEOs) of the Department of Computer Engineering are given below: PEO 1 : Provide socially responsible, environment friendly broad based solutions to Computer engineering related broad-based problems adapting professional ethics. PEO 2 : Adapt state-of-the-art Computer engineering broad-based technologies to work in multidisciplinary work environments. PEO 3 : Solve broad-based problems individually and as a team member communicating effectively in the world of work. Prgoram Outcomes(POs): PO1 Basic and Discipline specific knowledge: Apply knowledge of basic mathematics, sciences and engineering specialization to solve the Computer engineering problems. PO2 Problem analysis: Identify and analyse well-defined Computer engineering problems and assist with the design of systems components or processes to meet specified needs. PO3 Design/ development of solutions: Design solutions for well-defined Computer Engineering technical problems and assist with the design of systems components or processes to meet specified needs. PO4 Engineering Tools, Experimentation and Testing : Apply modern Computer engineering tools and appropriate technique to conduct standard tests and measurements. PO5 Engineering practices for society, sustainability and environment: Apply appropriate Computer Engineering technology in context of society, sustainability, environment and ethical practices. PO6 Project Management: Use Computer engineering management principles individually, as a team member or a leader to manage projects and effectively communicate about well-defined engineering activities. PO7 Life-long learning: Ability to analyse individual needs and engage in updating in the context of Computer engineering technological changes. Prgoram Specific Outcomes(PSO): PSO1 Computer software and hardware usage: Use state-of-art technologies of computer software and hardware static electrical equipment. PSO2 Computer Engineering Maintenance: Maintain state-of-the-art computer engineering systems and peripherals Departmental Laboratories: Sr. No Name of Lab & Room No 1 Hardware 2 Network & Internet 3 Database & Project 4 Software Testing 5 Programming Curriculum: Odd Semester Even Semester G Scheme W.e.f 2011-12 SEM-I SEM-II SEM-III SEM-IV SEM-V SEM-VI I Scheme W.e.f 2017-18 SEM-I SEM-II SEM-III SEM-IV SEM-V SEM-VI Time Table: Odd Semester Even Semester 2019-20 2019-20 2020-21 2020-21 2021-22 2021-22 2022-23 2022-23 Result Analysis: Odd Semester Even Semester 2019-20 2019-20 2020-21 2020-21 2021-22 2021-22 Expert Lectures & Industrial Visits: Expert Lectures Industrial Visits 2019-20 2019-20 2020-21 2020-21 2021-22 2021-22 Extra Curricular Activitis Organized By Department: Click Here To View Faculty Profile: Sr.No Name of the faculty Designation Qualification Experience Mobile No. Email-id Link 1 Mr.M.P. Ganorkar Lecturer Selection Grade M.E. 27 Years 9422867096 ganorkarmohan@rediffmail.com View 2 Mr. S.U.Rathod Lecturer Selection Grade M.E. 25 Years 7875137894 sunilrathodin@yahoo.com View 3 Mr. H.P.Gathode Lecturer M.E 13 Years 9421058574 hp_gathode@rediffmail.com View 4 Mrs.S.G.Dhoke Lecturer M.E 13 Years 9763239240 5 Mr.P.U.Malve Lecturer Senior Scale M.E. PhD* 15 Years 9766577637 pravin.malve29@gmail.com View 6 Mr.M.R.Torney Lecturer M.E. 14 Years 9823141284 monaltorney@gmail.com 7 Mr.S.A.TARKASE Instructor(TLA) B.E. 26 Years 8600628911 * Pursuing Faculty list(2019-20 to 2022-23): 2022-23, 2021-22, 2020-21, 2019-20 Student Roll List(2022-23): Click Here To View IRG and Consultancy Details: Click Here To View Copyright ©Government Polytechnic Arvi All Rights Reserved"
+            }
+        ]
+    },
+    {
+        "url": "https://gparvi.ac.in/electrical.html",
+        "type": "html",
+        "title": "Government Polytechnic Arvi",
+        "images": [
+            "https://gparvi.ac.in/index_files/orenge_strip(1).gif",
+            "https://gparvi.ac.in/images/dte_logo.gif",
+            "https://gparvi.ac.in/images/arvi_logo.jpg",
+            "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
+            "https://gparvi.ac.in/index_files/yellow_cornar2.gif",
+            "https://gparvi.ac.in/images/home1.jpg",
+            "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
+            "https://gparvi.ac.in/index_files/yellow_cornar2.gif"
+        ],
+        "sections": [
+            {
+                "heading": "",
+                "content": "Government Polytechnic Arvi | Home | Contact | Check Mail | Government Polytechnic, Arvi Approved by AICTE, Recognised by DTE & Affiliated to MSBTE e-mail : principal.gparvi@dtemaharashtra.gov.in office.gparvi@dtemaharashtra.gov.in About Us About Institute Principal's Desk Principal's Profile Organizational Structure Office Staff Deparments Chemical Engg. Civil Engg. Computer Engg. Electrical Engg. Electronics & Comm. Engg. Mechanical Engg. Science & Humanities Workshop CELL Student Guidance & Grievancess Redressal Cell Student Discipline & Anti Ragging Committee Anti Ragging Squad Girls & Women Development Cell Institute Level Curriculum Implementation Unit Training & Placement Introduction Placement Information Events Important Links Diploma Admission Procedure Maharashtra Government DTE MSBTE RO Nagpur MPSC AICTE ISTE Scholarship Portal Student's Chapter IEI IETE ISTE Contact Us Gallary Electrical Engineering Department Vision: To produce competent technical manpower in Electrical Engineering for fulfilling needs of industry and society Mission: 1.To impart need based technical education in Electrical Engineering. 2.To modernize departmental laboratories and facilities. 3.To train faculty and staff , to meet challenges in socio-technical environment. 4.To inculcate values and ethics among students. Prgoram Educational Objectives(PEOs): The Program Educational Objectives (PEOs) of the Department of Computer Engineering are given below: 1.Provide socially responsible, environment friendly broad-based solutions to Computer engineering related problems adapting professional ethics. 2.Adapt state-of-the-art of Electrical Engineering by implementing advanced technologies to work in multi-disciplinary work environments. 3.Solve broad-based problems individually and as a team member communicating effectively in the world of work. Program Outcomes(POs): PO1 Basic and Discipline specific knowledge: Apply knowledge of basic mathematics, sciences and engineering specialization to solve the engineering problems. PO2 Problem analysis: Identify and analyse well-defined engineering problems and assist with the design of systems components or processes to meet specified needs. PO3 Design/ development of solutions:Design solutions for well-defined technical problems and assist with the design of systems components or processes to meet specified needs. PO4 Engineering Tools, Experimentation and Testing: Apply modern engineering tools and appropriate technique to conduct standard tests and measurements. PO5 Engineering practices for society, sustainability and environment: Apply appropriate technology in context of society, sustainability, environment and ethical practices. PO6 Project Management: Use engineering management principles individually, as a team member or a leader to manage projects and effectively communicate about well-defined engineering activities. PO7 Life-long learning: Ability to analyse individual needs and engage in updating in the context of technological changes. Program Specific Outcomes(PSOs): PSO1 Electrical Equipment: Maintain various types of rotating and static electrical equipment. PSO2 Electric Power Systems: Maintain different types of electrical power systems. Departmental Laboratories: Sr. No Name of Lab & Room No 1 DC Machine 2 AC Machine 3 Computer 4 Electric Workshop 6 Switchgear and Protection Curriculum: Odd Semester Even Semester G Scheme W.e.f 2011-12 SEM-I SEM-II SEM-III SEM-IV SEM-V SEM-VI I Scheme W.e.f 2017-18 SEM-I SEM-II SEM-III SEM-IV SEM-V SEM-VI Time Table: Odd Semester Even Semester 2019-20 2019-20 2020-21 2020-21 2021-22 2021-22 Result Analysis: Odd Semester Even Semester 2019-20 2019-20 2020-21 2020-21 2021-22 2021-22 Expert Lectures & Industrial Visits: Expert Lectures Industrial Visits 2019-20 2019-20 2020-21 2020-21 2021-22 2021-22 Faculty list(2019-20 to 2022-23): 2022-23, 2021-22, 2020-21, 2019-20 Student Roll List(2022-23): Click Here To View Faculty Profile: Sr.No Name of the faculty Designation Qualification Experience Mobile No. Email-id Link 1 Sarita P.Thote Incharge HOD M.E. 25 years 9423624479 saritathote@rediffmail.com View 1 SMT. R.W.Wankhade Lecturer B.E. 29 years 9970161160 ranjanawankhade@gmail.com 3 Smt. A.P.Gandhi Lecturer M.Tech. 15 years 9370470120 apgandhi1976@gmail.com 3 Rahul W. Patil Lecturer B.E. 06 years 8983268924 rw_patil@rediffmail.com View 4 Shital V. Raut Lecturer M.Tech. 03 year 8888943769 raut.shital@gmail.com View Copyright ©Government Polytechnic Arvi All Rights Reserved"
+            }
+        ]
+    },
+    {
+        "url": "https://gparvi.ac.in/elect_comm.html",
+        "type": "html",
+        "title": "Government Polytechnic Arvi",
+        "images": [
+            "https://gparvi.ac.in/index_files/orenge_strip(1).gif",
+            "https://gparvi.ac.in/images/dte_logo.gif",
+            "https://gparvi.ac.in/images/arvi_logo.jpg",
+            "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
+            "https://gparvi.ac.in/index_files/yellow_cornar2.gif",
+            "https://gparvi.ac.in/images/home1.jpg",
+            "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
+            "https://gparvi.ac.in/index_files/yellow_cornar2.gif"
+        ],
+        "sections": [
+            {
+                "heading": "",
+                "content": "Government Polytechnic Arvi | Home | Contact | Check Mail | Government Polytechnic, Arvi Approved by AICTE, Recognised by DTE & Affiliated to MSBTE e-mail : principal.gparvi@dtemaharashtra.gov.in office.gparvi@dtemaharashtra.gov.in About Us About Institute Principal's Desk Principal's Profile Organizational Structure Office Staff Deparments Chemical Engg. Civil Engg. Computer Engg. Electrical Engg. Electronics & Comm. Engg. Mechanical Engg. Science & Humanities Workshop CELL Student Guidance & Grievancess Redressal Cell Student Discipline & Anti Ragging Committee Anti Ragging Squad Girls & Women Development Cell Institute Level Curriculum Implementation Unit Training & Placement Introduction Placement Information Events Important Links Diploma Admission Procedure Maharashtra Government DTE MSBTE RO Nagpur MPSC AICTE ISTE Scholarship Portal Student's Chapter IEI IETE ISTE Contact Us Gallary Electronics and Communication Department About Department: 1. The Department of Electronics and Communication Engineering was established in 1995. 2. The department has highly educated and well experienced faculty members who endeavor to produce the finest engineers, contributing incredibly to the nation. 3. Department has spacious, fully equipped and independent laboratories. 4. Department has Computer Lab, Digital Electronics Lab, Basic and Applied Electronics Lab, Communication Engineering Lab, Instrumentation and Industrial Electronics Lab and PCB design Lab. Vision: To produce competent technical manpower in Electronics and communication Engineering for fulfilling needs of Industry & Society. Mission: 1) To impart need based technical education in Electronics and communication Engineering 2) To modernize departmental laboratories and facilities. 3) To train faculty and staff, to meet challenges in socio-technical 4)To inculcate values and ethics among students.. Program Educational Objectives (PEOs): The Program Educational Objectives (PEOs) of the Department of Electronics and Communication Engineering are given below:. 1. Provide socially responsible, environment friendly broad-based solutions to Electronics and communication engineering related problems adapting professional ethics. 2. Adapt state-of-the-art Electronics and communication engineering broad- based technologies to work in multi-disciplinary work environments. Program Outcomes(POs): PO1. Basic and Discipline specific knowledge: Apply knowledge of basic mathematics, science and engineering fundamentals and engineering specialization to solve the Electronics and Communication engineering problems. PO2. Problem analysis: Identify and analyses well-defined Electronics and Communication engineering problems using codified standard methods. PO3. Design development of solutions: Design solutions for well-defined Electronics and Communication engineering technical problems and assist with the design of systems components or processes to meet specified needs. PO4. Engineering Tools, Experimentation and Testing: Apply modern Electronics and Communication engineering tools and appropriate technique to conduct standard tests and measurements PO5. Engineering practices for society, sustainability and environment: Apply appropriate Electronics and Communication engineering technology in context of Society, sustainability, environment and ethical practices. PO6. Project Management: Use Electronics and Communication engineering management principles individually, as a team Member or a leader to manage projects and effectively communicate about well-defined engineering activities. PO7. Life-long learning: Engage in independent and life-long learning activities in the context of technological changes also in Electronics and Communication engineering and allied industry. Program Specific Outcomes (PSOs) PSO1. Electronics and Telecommunication Systems: Maintain various types of Electronics and Telecommunication systems. PSO2. EDA Tools Usage: Use EDA tools to develop simple Electronics and Telecommunication engineering related circuits Departmental Laboratories: Sr. No Name of Lab & Room No 1 Basic and Applied Electronics Lab (117) 2 Digital Electronics Lab (118) 3 Computer Lab (102) 4 Instrumentation & Industrial Electronics Lab (114) 5 PCB Designing Lab 6 Communication Engg.Lab. (119) Curriculum: Odd Semester Even Semester I Scheme W.e.f 2017-18 SEM-I SEM-II SEM-III SEM-IV SEM-V SEM-VI Time Table: Odd Semester Even Semester 2019-20 2019-20 2020-21 2020-21 2021-22 2021-22 Achievements: Student Achievements Faculty Achievements 2019-20 2019-20 2020-21 2020-21 2021-22 2021-22 Result Analysis: Odd Semester Even Semester 2019-20 2019-20 2020-21 2020-21 2021-22 2021-22 Expert Lectures & Industrial Visits: Expert Lectures Industrial Visits 2019-20 2019-20 2020-21 Not Applicable due to COVID 2021-22 2021-22 Extra Curricular Activities Organized By Department: Sr.no Extra-Curricular Activities Academic Year 1 BreadBoard Competition 2019-20 2 Tree Plantation 2020 2019-20 3 State Level Video Creation Competition 2021-22 Faculty Profile Name of Faculty Designation Qualification Experience Mobile Email Detail Profile Dr. V.J. Dongre HOD B.E. M.E. P.hd. 29 Years. 9370668979 dongrevj1@gmail.com Detail Profile Mrs. Priti L.Tirpude Lecturer B.E. 15 Years 8390391445 meshrampreeti0910@gmail.com Detail Profile Ms. NAMRATA NANDKISHOR DAGA Lecturer M.E. 19 Years 9423623916 nnamrata.1@gmail.com Detail Profile Smt. R.S. Kherdekar Lecturer B.E.M.E 12 Years 9860211892 rashmikherdekar@gmail.com Detail Profile Yogesh Uttamrao Futane Lecturer M.E 10 Years 9922042483 yogeshfutane@gmail.com Mr. K. A. Saurkar Lecturer B.E. 13 Years 9975708579 kunalsaurkar@gmail.com Detail Profile Mr. S.S.Pise Instructor (A. V. Aids Technician ) Diploma in Electronics & Comm. Engg.. 10 Years 9096000138 piseshriganesh@gmail.com Detail Profile Faculty list(2022-23): 2022-23 Student Roll List(2022-23): Click Here To View Copyright Â©Government Polytechnic Arvi All Rights Reserved"
+            }
+        ]
+    },
+    {
+        "url": "https://gparvi.ac.in/mechanical.html",
+        "type": "html",
+        "title": "Government Polytechnic Arvi",
+        "images": [
+            "https://gparvi.ac.in/index_files/orenge_strip(1).gif",
+            "https://gparvi.ac.in/images/dte_logo.gif",
+            "https://gparvi.ac.in/images/arvi_logo.jpg",
+            "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
+            "https://gparvi.ac.in/index_files/yellow_cornar2.gif",
+            "https://gparvi.ac.in/images/home1.jpg",
+            "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
+            "https://gparvi.ac.in/index_files/yellow_cornar2.gif"
+        ],
+        "sections": [
+            {
+                "heading": "",
+                "content": "Government Polytechnic Arvi | Home | Contact | Check Mail | Government Polytechnic, Arvi Approved by AICTE, Recognised by DTE & Affiliated to MSBTE e-mail : principal.gparvi@dtemaharashtra.gov.in office.gparvi@dtemaharashtra.gov.in About Us About Institute Principal's Desk Principal's Profile Organizational Structure Office Staff Deparments Chemical Engg. Civil Engg. Computer Engg. Electrical Engg. Electronics & Comm. Engg. Mechanical Engg. Science & Humanities Workshop CELL Student Guidance & Grievancess Redressal Cell Student Discipline & Anti Ragging Committee Anti Ragging Squad Girls & Women Development Cell Institute Level Curriculum Implementation Unit Training & Placement Introduction Placement Information Events Important Links Diploma Admission Procedure Maharashtra Government DTE MSBTE RO Nagpur MPSC AICTE ISTE Scholarship Portal Student's Chapter IEI IETE ISTE Contact Us Gallary Mechanical Engineering Department Vision: To produce competent technical manpower in Mechanical Engineering for fulfilling needs of Industry & Society. Mission: 1.To impart need based technical education in Mechanical Engineering. 2.To modernize departmental laboratories and facilities. 3.To train faculty and staff , to meet challenges in socio-technical environment. 4.To inculcate values and ethics among students. Program Educational Objectives (PEOs): PEO1.Provide socially responsible, environment friendly broad-based solutions to Mechanical engineering related problems adapting professional ethics. PEO2. Adapt state-of-the-art Mechanical engineering broad-based technologies to work in multi-disciplinary work environments. PEO3. Solve broad-based problems individually and as a team member communicating effectively in the world of work. Program Outcomes(POs): PO01. Basic and Discipline specific knowledge: Apply knowledge of basic mathematics, science and engineering fundamentals and engineering specialization to solve the engineering problems. PO02.Problem analysis: : Identify and analyse well-defined engineering problems using codified standard methods. PO03.Design/ development of solutions: Design solutions for well-defined technical problems and assist with the design of systems components or processes to meet specified needs. PO04.Engineering Tools, Experimentation and Testing: : Apply modern engineering tools and appropriate technique to conduct standard tests and measurements. PO05.Engineering practices for society, sustainability and environment: : Apply appropriate technology in context of society, sustainability, environment and ethical practices. PO06.Project Management: : Use engineering management principles individually, as a team member or a leader to manage projects and effectively communicate about well-defined engineering activities. PO07.Life-long learning: : Ability to analyse individual needs and engage in updating in the context of technological changes. Program Specific Outcomes (PSOs): PSO 1. Modern Software Usage: Use latest mechanical engineering related software for simple design, drafting, manufacturing, maintenance and documentation of Mechanical engineering components and processes. PSO 2. Equipment and Instruments: Maintain machine, equipment and instruments related to Mechanical engineering. Departmental Laboratories: Sr.No. Name of the Laboratory 1 POWER ENGINEERING 2 METROLOGY & QUALITY COTROL 3 THERMAL ENGINEERING 4 THEORY OF MACHINES 5 AUTOMOBILE ENGINEERING 6 FLUID POWER 7 MECHANICAL MEASUREMENTS AND CONTROL 8 REFRIGERATION & AIR CONDITIONING 9 CAD CAM Curriculum: Odd Semester Even Semester I Scheme W.e.f 2020-21 SEM-I SEM-II SEM-III SEM-IV SEM-V SEM-VI Time Table: Odd Semester Even Semester 2019-20 2019-20 2020-21 2020-21 2021-22 2021-22 Acheivements: Click Here To View Result Analysis: Odd Semester Even Semester 2019-20 2019-20 2020-21 2020-21 2021-22 2021-22 Exper Lectures And Industrial Visits: Expert Lectures Industrial Visits 2019-20 2019-20 2020-21 2020-21 2021-22 2021-22 Extra-Curricular Activities Organized by Department : Click Here To View Placement Details: Click Here To View Faculty list(2022-23): 2022-23 Student Roll List(2022-23): Click Here To View Faculty Profile: Name Designation Mobile No. E-mail ID Detail Profile N.J.Shirbhate HOD View R.P.BORUDKAR Lecturer 9423413290 rpborudkar@gmail.com View Dr. Mohd.Ayaz Afsar Lecturer 9423654442 ayazafsar1234@rediffmail.com Mr. Gajanan Kisanrao Dhongade Lecturer 9764282509 gkd1979@gmail.com View A. P. DEULKAR Lecturer 9822734703 ajay.deulkar999@gmail.com View Pankaj Rambilas Boob Lecturer 9860445541 boob.pankaj2@gmail.com View N. D. ROKDE Lecturer 9637564862 noopurrokdegp@gmail.com View Ku.S.S.Dandge Lecturer 7498756707 shruti.dandge@gmail.com View Mr.A.D.KHANDARE INSTRUCTOR (TLA) 8007814546 atulkhandare2gmail.com Copyright ©Government Polytechnic Arvi All Rights Reserved"
+            }
+        ]
+    },
+    {
+        "url": "https://gparvi.ac.in/science.html",
+        "type": "html",
+        "title": "Government Polytechnic Arvi",
+        "images": [
+            "https://gparvi.ac.in/index_files/orenge_strip(1).gif",
+            "https://gparvi.ac.in/images/dte_logo.gif",
+            "https://gparvi.ac.in/images/arvi_logo.jpg",
+            "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
+            "https://gparvi.ac.in/index_files/yellow_cornar2.gif",
+            "https://gparvi.ac.in/images/home1.jpg",
+            "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
+            "https://gparvi.ac.in/index_files/yellow_cornar2.gif"
+        ],
+        "sections": [
+            {
+                "heading": "",
+                "content": "Government Polytechnic Arvi | Home | Contact | Check Mail | Government Polytechnic, Arvi Approved by AICTE, Recognised by DTE & Affiliated to MSBTE e-mail : principal.gparvi@dtemaharashtra.gov.in office.gparvi@dtemaharashtra.gov.in About Us About Institute Principal's Desk Principal's Profile Organizational Structure Office Staff Deparments Chemical Engg. Civil Engg. Computer Engg. Electrical Engg. Electronics & Comm. Engg. Mechanical Engg. Science & Humanities Workshop CELL Student Guidance & Grievancess Redressal Cell Student Discipline & Anti Ragging Committee Anti Ragging Squad Girls & Women Development Cell Institute Level Curriculum Implementation Unit Training & Placement Introduction Placement Information Events Important Links Diploma Admission Procedure Maharashtra Government DTE MSBTE RO Nagpur MPSC AICTE ISTE Scholarship Portal Student's Chapter IEI IETE ISTE Contact Us Gallary Science And Humanities Department About Department: Science and humanities department is one of the integral departments addressing the needs of students especially from rural area. It has well qualified, trained, and experienced teaching staff. The department has well equipped Physics, Chemistry and Language laboratories. It aims at giving better teaching-learning experience, solve student’s problems and guide them. Departmental Laboratories : Sr. No Name of Lab & Room No 1 Chemistry 2 Language 3 Physics Faculty Profile Sr. No. Name of Faculty Designation Qualification Nature of Appointment Detail Profile 1 Shri. S. P.Thakare Lecturer in Physics M.Sc.(Phy) Regular 2 Shri. P.W.KATORE Lecturer in English M.A., B.Ed., Regular View 3 Dr. N. S. Wadatkar Lecturer in Physics M.Sc. (Physics) Ph.D. Regular 4 Smt Y.M.Yewale Lecturer in Chemistry M.Sc. (Chem) Regular 5 Dr. S.L.Sayre Lecturer in Chemistry M.Sc. (Chem) Ph.D. Regular 6 Ku.C.D.Shetye Lecturer in Mathematics M.Sc., B.Ed., Regular View 7 J. S.Kantale Lecturer in Physics M.Sc. (Physics) , B. ed Regular Copyright ©Government Polytechnic Arvi All Rights Reserved"
+            }
+        ]
+    },
+    {
+        "url": "https://gparvi.ac.in/workshop.html",
+        "type": "html",
+        "title": "Government Polytechnic Arvi",
+        "images": [
+            "https://gparvi.ac.in/index_files/orenge_strip(1).gif",
+            "https://gparvi.ac.in/images/dte_logo.gif",
+            "https://gparvi.ac.in/images/arvi_logo.jpg",
+            "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
+            "https://gparvi.ac.in/index_files/yellow_cornar2.gif",
+            "https://gparvi.ac.in/images/home1.jpg",
+            "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
+            "https://gparvi.ac.in/index_files/yellow_cornar2.gif"
+        ],
+        "sections": [
+            {
+                "heading": "",
+                "content": "Government Polytechnic Arvi | Home | Contact | Check Mail | Government Polytechnic, Arvi Approved by AICTE, Recognised by DTE & Affiliated to MSBTE e-mail : principal.gparvi@dtemaharashtra.gov.in office.gparvi@dtemaharashtra.gov.in About Us About Institute Principal's Desk Principal's Profile Organizational Structure Office Staff Deparments Chemical Engg. Civil Engg. Computer Engg. Electrical Engg. Electronics & Comm. Engg. Mechanical Engg. Science & Humanities Workshop CELL Student Guidance & Grievancess Redressal Cell Student Discipline & Anti Ragging Committee Anti Ragging Squad Girls & Women Development Cell Institute Level Curriculum Implementation Unit Training & Placement Introduction Placement Information Events Important Links Diploma Admission Procedure Maharashtra Government DTE MSBTE RO Nagpur MPSC AICTE ISTE Scholarship Portal Student's Chapter IEI IETE ISTE Contact Us Gallary WorkShop Department Laboratories: Sr.No. Name of Laboratory 1 FITTING SHOP 2 MACHINE SHOP 3 SMITHY SHOP 4 TURNING SHOP 5 WELDING SHOP Faculty Profile Name Of Faculty Designation Mobile number Email-id Detailed Profile Dr. Nitin B. Chandurkar WS 9422856908 chandurkarnb@gmail.com View V.K.Tidake Instructor Black Smith virendratidke20@gmail.com S.N.Telange Instructor Turner View H.P.Rathod Hamal 9881152742 View Copyright ©Government Polytechnic Arvi All Rights Reserved"
+            }
+        ]
+    },
+    {
+        "url": "https://gparvi.ac.in/student_griv.pdf",
+        "type": "pdf",
+        "title": "student_griv.pdf",
+        "content": "[Page 1]\nPTTR AoA, TET, fa.aa, 37TSI Ts, ATi, AI.ATat, fM.aut -xxRRo? 7 -7:(oloR419) RR?EC°, ?RI?o E-Mail gparvil@gmail.com/ ofice.gparvi@dtemaharashtra.gov.in Website: www.gparvi.ac.in T 5. ITiA3T/TTT HAHt/2o/ 3o f&HT o teloT/2023 614t6 HTYT T-TTTHTEI T¢t frot yi 7 . 37-3/ Legal /2012, R. 4/o4/Ro2 2 A HTHAIGT 3. 3727T o 3. VAQITT, THTRÍ TT O 3T.A ATRTS, faHTIHa TH HTA. 3THT.TRATE, fqHTTAHE FTTR 3TY. HG T. TH.T. TUTKEHR, 3tTTA FU T. ol9 HIHSIA (ST.U.37T) TET, ITHRT TATHdA, TAT",
+        "size_bytes": 415910
+    },
+    {
+        "url": "https://gparvi.ac.in/antiragging.pdf",
+        "type": "pdf",
+        "title": "antiragging.pdf",
+        "content": "[Page 1]\nTHE afoa7, A7T, fa.aai, 3rST , ATT, AI.34TI, f7.aH -xx?Ro? y47 : (ouR4o) RRRAC°, RRIRRO E-Mail gparvil@gmail.com/ office.gparvi@dtemaharashtra.gov.in F474HT: (o?h9) ?R3?20 Website: www.gparVIac.in fRATT otelr|2 o 22 Ch4tA 3HTÈYT fa7-T fadt za (Anti-Ragging Squad) TE-TTYTETAE TT Roet a u7 . 37-3/Legal / AICTE/2009, R. o/ o0/3o0g 37 3T. UA.AT, THTT UTET oR T. H. TR, TT TEIER TICRUT AHTUT UYTHTT HT4YY 3YTY4I-T {UT. R. 3T. . 3TR. STAS, tqHriyHG THTYA HTY. o9 TUIT T TIYaS, fEIT HTHT JIT, fAATt 3 T. QE. T. HTETY, 3. 77 3TH. HT (3T.U4.33) T TETY, ITYET AAhT7, 3T",
+        "size_bytes": 392553
+    },
+    {
+        "url": "https://gparvi.ac.in/raggingsquad.pdf",
+        "type": "pdf",
+        "title": "raggingsquad.pdf",
+        "content": "[PDF - no extractable text]",
+        "size_bytes": 222658
+    },
+    {
+        "url": "https://gparvi.ac.in/mahila.pdf",
+        "type": "pdf",
+        "title": "mahila.pdf",
+        "content": "[Page 1]\npFT-C7157 -223990 qTeaai hAj45 -C7157-222680, 223990 Email-gparvildgmail.con Weksitewww.gparv: . ac TAtF 3ITET T 6TfRAT/HTA/2021/31 tso3 |12/2021 TOT 5UUIaTaT. 15/Ho,fèHics 19/09/2006 **** 34.5 *** 1 THAt gHUT.ute, Ha.faem 3t F ***\"**** H.TYTS, 37f.ua a **** TCI/HfTT 8 9 1. HI.iTGI HaRIEUT ZTGATT4,H.RT.TU} qÍAI FBtfresVraT Hfa HrR. 2 .3 4. H fHTTHTU/HTRI,STYPTI.RILT.A.ATdi uiit adt reT 3TQTU araTtttTa. EE,EJ,SCI,ME ,CO,CH,TPO,APM, W/S,LIB,OFFICE) 5. 3TCTTA 14TT,XTTra TaRA,TAT HTeT ren 3TATE raaTETe, 8.",
+        "size_bytes": 486337
+    },
+    {
+        "url": "https://gparvi.ac.in/inst_curricullum.pdf",
+        "type": "pdf",
+        "title": "inst_curricullum.pdf",
+        "content": "[Page 1]\nGOVERNMENT POLYTECNIC, ARVI. Deurwada Road Dist.-Wardlh:: 442 201 in:07157-2239900 Ph. No. 07157-222680, 222140 Website: www.gparvi.com Email: Bparvi1@gmail.com ---- No. GPAR/ICIU /2019-20 2325 i 26 2019 -- CIRCULAR: Subject: Constitution of Institute Level Curriculum mpleuiei.t::tiu Unit (1CTU) for 2019-20 Ref: CIlAN Norms 2017 For effective implementation of curriculum during acadenic y ear 2019-20 the following commillee Is constituted. Post unciOns Name and Designation Shri S. R. Thute, Principal Dr. N. R. Jawade. HOD Chemical Sr. No. curriculum . Prepare Inplementation institule level. 01 Chairman plan 02 Ex-officio Mennber Engg Shri S.S. Moon, HOD Mechanical Ex-officio Member2. Plan for academic ealendar 03 of insitule taking into Engg. Dr. S.P. Burghate. HOD Civil Dr. B. G. Gawalwad. HODD Electronics Engg cOnsiderations calendar of Ex-ofiicio Memb Ex-officio Meniber 04 MSBTE 05 Analyze the report ol' internal academic nd externa 06 Smt. S.P. Thote. I/c HOD Electrical Ex-oflicio Menmier Engg. Shri M.P. Ganorkar. 1/c HOD monitorng conmmillee and ake remedial meusures. Ex-ollicio Member 07 Maintain the records of all Computer Engg. Shri A.M. Kalmegh. i/c Science & ctivities Member Humanities Member Shri S.B. Lanje. Registrar Shri Mayur Pathe. III EE. Sudent Representative Ku. Tejaswini Wadhare, V C Student Representative Shri Gangadhar Wadhare. Parent Representative 09 Member 10 Member 11 Member 12 13 Dr. S. S. Baraskar. Academic Member secretar Coordinator (SOite Prinipal. :VC ent Polyechunic. Arvi. Copy to 1. Director. Directorate of Technical Education Vi. 5. Mumbai 2 Joint Dircetor of lechnical ducation Rezial oilice, Nagu ll coneerned comnittee members",
+        "size_bytes": 350669
+    },
+    {
+        "url": "https://gparvi.ac.in/tpoorder1.pdf",
+        "type": "pdf",
+        "title": "tpoorder1.pdf",
+        "content": "[Page 1]\nTraining and Placement cell Training and Placement cell is working in the institute from its establishment. It performs the function to look forward for better job opportunities and thereafter placement of students in various Industrial, Service, sales, marketing, manufacturing organizations etc. all over the country. To cater the need of above sectors institute provide them scholar and skilled manpower as students. The department conducts the placement and training activities for students throughout the year. Apart it looks after the need of training for the staff and facilitates the training opportunities. The cell is looked after by Training and Placement Officer under the able guidance of Principal and Head of all departments. Earlier for academic y ear 2015 -16 Shri.S.S.Moon, Lecturer in Mechanical Engg. was working as Training and Placement Officer & for academic year 2016-17 Shri.S.U.Patil, Lecturer in Chemical Engg. was working as Training and Placement Officer. 2017-18 to 20 20-21 Shri.A.R.Bhansali, Lectu rer in Mechanical Engg. was working as Training and Placement Officer. Since 2021-22 Shri.K.R.Bhageria, Lectu rer in Mechanical Engg. Is working as Training and Placement Officer. An Industry Institute Interaction cell and EDP cell is working for various student placement, training activities. It is constituted bearing following members.\n\n[Page 2]\n\n\n[Page 3]\nScanned by TapScanner",
+        "size_bytes": 251567
+    },
+    {
+        "url": "https://gparvi.ac.in/Placement-new.pdf",
+        "type": "pdf",
+        "title": "Placement-new.pdf",
+        "content": "[PDF - no extractable text]",
+        "size_bytes": 3492967
+    },
+    {
+        "url": "https://gparvi.ac.in/tpo_events.pdf",
+        "type": "pdf",
+        "title": "tpo_events.pdf",
+        "content": "[Page 1]\nEAC CAMP Inauguration of EAC camp in collaboration with MITCON Wardha dt. 19/12/2019 at the hands of Dr.Godbole PRINCIPAL Shri S.R.Thute addressing participants of EAC camp.\n\n[Page 2]\nDr.Godbole as faculty delivering lecture\n\n[Page 3]\nTPO Shri A.R.Bhansali with faculty Shri ganjare sir\n\n[Page 4]\nEAC camp valedictory function dt.21/12/2019 Total participant were 89",
+        "size_bytes": 754363
+    },
+    {
+        "url": "https://gparvi.ac.in/752.pdf",
+        "type": "pdf",
+        "title": "752.pdf",
+        "content": "[PDF - no extractable text]",
+        "size_bytes": 6959856
+    },
+    {
+        "url": "https://gparvi.ac.in/iei.pdf",
+        "type": "pdf",
+        "title": "iei.pdf",
+        "content": "[Page 1]\nGOVERNMENT POLYTECHNIC, ARVI Deurwada Road, Arvi District: Wardha 442201. Phone: (07157) 222680, 222140 Fax: (07157) 223990 E-mail: gparvi1@gmail.com Website : www.gparvi.ac.in Academic Year 2022 -23 Sr No Date Subject Expert Person Dept. No. of Students 1 05/11/2022 Poster Presentation -2022 - 23 M.C.Lonare & N.S.Sharma Lecturers, GP Arvi Chemical & Civil II/III Yrs 2 17/11/2022 Data Visualization Ms. Maitheli A Pande Mechanical II/III Yrs 3 25/11/2022 Robotics Mr. Akhileshsingh Dhandoriya Akhiladhnya, Chief Technology Officer, Nagpur Mechanical II/III Yrs 4 18/11/2022 Hydro processing in petrochemical Refinery Mr. Akash Chaware, Assistant Engineer, BORL, Bina, MP Chemical II/III Yrs Academic Year 2021 -22 Sr No Date Subject Expert Person Dept. No. of Students 1 25/03/2022 Industrial Safety Guidelines Mr. Sarang P. Sawalikar Chembond Pvt Ltd, Talegaon Chemical 57 2 28/03/2022 Career Opportunities after Diploma Mr. Ankush Nag APS Microtech Pvt. Ltd Nagpur Computer I/II/III Yr 3 24/12/2021 Techno Personality Development with Yoga Mr. Mahadev Gaidhane Mechanical I/II/III Yr 4 17/10/2021 Basics of Hydrocracking Unit Mr. Akash B. Chaware BORL, Bina, MP Chemical 41 5 30/08/2021 Project Planning & Execution Mr. Amol Barai, Tata Steel LTD Jamshedpur Mechanical 47 Academic Year 2020 -21 Sr No Date Subject Expert Person Dept. No. of Students 1 09/04/2021 Techno -Economic Solution for Sustainable Municipal Solid Waste Management for Development of smart cities in India Prof. K. D. Bhuyar Assistant Prof, PIET, Nagpur Chemical 87 2 12/12/2020 Basics of Simulation Need of Industry Mr. Tarush J. Meshram Chemical 40\n\n[Page 2]\nGOVERNMENT POLYTECHNIC, ARVI Deurwada Road, Arvi District: Wardha 442201. Phone: (07157) 222680, 222140 Fax: (07157) 223990 E-mail: gparvi1@gmail.com Website : www.gparvi.ac.in Academic Year 2019 -20 Sr No Date Subject Expert Person Dept. No. of Students 1 19/07/2019 Environmental Pollution and Water Tretment Dr N.P. Shinkar GP Amravati Civil 39 2 26/08/2019 Advance Waste water Treatment in Chemical Prof. K.D.Bhuyar, PIET Nagpur Chemical 57 3 29/08/2019 Cascading Style Sheets Nikhil Shende and HR Manager Bitlance Tech Hub Pvt Ltd Amravati Computer 36 4 30/08/2019 PHP Programming Akshay Bahadurpure Project Manager Bitlance Tech Hub Pvt Ltd Amravati Computer 43 5 10/01/2020 Emerging Trends and Personality Development Dr P.R. Tayade Chemical 41 Academic Year 2018 -19 Sr No Date Subject Expert Person Dept. No. of Students 1 28/08/2018 Automation 4.0 and arm robotics Mr.priyam sharma Doxpro Robotics Pvt Ltd Amravati Computer 32 2 06/09/2018 Membrane Technology in Chemical Industry Shri. A.V.Sawale Lecturer in Chemical Engg.,GP, Yavatmal Chemical 56 3 19/09/2018 Civil Engineering Department Mr. R.C.Pachekar and Dr. S.P.Bajad GP Amravati Civil & Applied Mechanics 39 4 27/09/2018 Operations Petrochemical Industries’ Mr. C.N.Bhange, Executive (Operation), HPCL -Mittal Energy Ltd., Bhatinda Chemical 47 5 16/01/2019 Power Quality, Harmonics and its Mitigation Mr. M.P.Chaur Electrical 35 6 13/03/2019 Management Topic - Scientific Principle of Management Mr.T.M. Deshpande Civil 45 7 14/03/2019 Carrier Guidance Mr.Hemant S Joshi GP Amravati Electrical 50\n\n[Page 3]\nGOVERNMENT POLYTECHNIC, ARVI Deurwada Road, Arvi District: Wardha 442201. Phone: (07157) 222680, 222140 Fax: (07157) 223990 E-mail: gparvi1@gmail.com Website : www.gparvi.ac.in Photo Gallery of IEI Expert Lecture /Poster Presentation Mr. Akash Chaware, Assistant Engineer, BORL, Bina, MP , delivered online On 18/11/2022 Topic Hydro processing in petrochemical Refinery Mr. Akash Chaware, Assistant Engineer, BORL, Bina, MP , delivered online On 18/11/2022 Topic Hydro processing in petrochemical Refinery\n\n[Page 4]\nGOVERNMENT POLYTECHNIC, ARVI Deurwada Road, Arvi District: Wardha 442201. Phone: (07157) 222680, 222140 Fax: (07157) 223990 E-mail: gparvi1@gmail.com Website : www.gparvi.ac.in Poster Presentation -2022 - 23 on 05/11/2022 By M.C.Lonare & N.S.Sharma Lecturers, GP Arvi (Chemical & Civil) Poster Presentation -2022 - 23 on 05/11/2022 By M.C.Lonare & N.S.Sharma Lecturers, GP Arvi (Chemical & Civil)\n\n[Page 5]\nGOVERNMENT POLYTECHNIC, ARVI Deurwada Road, Arvi District: Wardha 442201. Phone: (07157) 222680, 222140 Fax: (07157) 223990 E-mail: gparvi1@gmail.com Website : www.gparvi.ac.in Poster Presentation -2022 - 23 on 05/11/2022 By M.C.Lonare & N.S.Sharma Lecturers, GP Arvi (Chemical & Civil) Mr. Sarang P. Sawalikar Chembond Pvt Ltd, Talegaon delivered On 25/03/2022 Topic Industrial Safety Guidelines Mr. Ankush Nag APS Microtech Pvt. Ltd Nagpur delivered On 28/03/2022 Topic Career Opportunities after Diploma\n\n[Page 6]\nGOVERNMENT POLYTECHNIC, ARVI Deurwada Road, Arvi District: Wardha 442201. Phone: (07157) 222680, 222140 Fax: (07157) 223990 E-mail: gparvi1@gmail.com Website : www.gparvi.ac.in Mr. Mahadev Gaidhane delivered On 24/12/2021 Topic Techno Personality Development with Yoga\n\n[Page 7]\nGOVERNMENT POLYTECHNIC, ARVI Deurwada Road, Arvi District: Wardha 442201. Phone: (07157) 222680, 222140 Fax: (07157) 223990 E-mail: gparvi1@gmail.com Website : www.gparvi.ac.in Mr. Akash B. Chaware BORL, Bina, MP delivered On 17/10/2021 Topic Basics of Hydrocracking Unit Prof. K. D. Bhuyar Assistant Prof, PIET, Nagpur delivered On 09/04/2021 Topic Techno -Economic Solution for Sustainable Municipal Solid Waste Management for Development of smart cities in India\n\n[Page 8]\nGOVERNMENT POLYTECHNIC, ARVI Deurwada Road, Arvi District: Wardha 442201. Phone: (07157) 222680, 222140 Fax: (07157) 223990 E-mail: gparvi1@gmail.com Website : www.gparvi.ac.in Shri. A.V.Sawale delivered On 06/09/2018 Topic Membrane Technology in Chemical Industry Shri. A.V.Sawale delivered On 06/09/2018 Topic Membrane Technology in Chemical Industry Mr.priyam sharma Doxpro Robotics Pvt Ltd Amravati delivered On 28/08/2018 Topic Automation 4.0 and arm robotics\n\n[Page 9]\nGOVERNMENT POLYTECHNIC, ARVI Deurwada Road, Arvi District: Wardha 442201. Phone: (07157) 222680, 222140 Fax: (07157) 223990 E-mail: gparvi1@gmail.com Website : www.gparvi.ac.in Mr.priyam sharma Doxpro Robotics Pvt Ltd Amravati delivered On 28/08/2018 Topic Automation 4.0 and arm robotics Mr.C.V.Ghate Virag Microsystem Pvt Ltd.Nagpur delivered On 12/01/2018 Topic CLOUD COMPUTING AND SMART CITIES\n\n[Page 10]\nGOVERNMENT POLYTECHNIC, ARVI Deurwada Road, Arvi District: Wardha 442201. Phone: (07157) 222680, 222140 Fax: (07157) 223990 E-mail: gparvi1@gmail.com Website : www.gparvi.ac.in Mr.C.V.Ghate Virag Microsystem Pvt Ltd.Nagpur delivered On 12/01/2018 Topic CLOUD COMPUTING AND SMART CITIES Mr. C.N.Bhange, Executive (Operation), HPCL -Mittal Energy Ltd., Bhatinda Delivered on 27/09/2018 Topic ‘Operations Petrochemical Industries’\n\n[Page 11]\nGOVERNMENT POLYTECHNIC, ARVI Deurwada Road, Arvi District: Wardha 442201. Phone: (07157) 222680, 222140 Fax: (07157) 223990 E-mail: gparvi1@gmail.com Website : www.gparvi.ac.in Mr. C.N.Bhange, Executive (Operation), HPCL -Mittal Energy Ltd., Bhatinda Delivered on 27/09/2018 Topic ‘Operations Petrochemical Industries’",
+        "size_bytes": 1608441
+    },
+    {
+        "url": "https://gparvi.ac.in/iete.pdf",
+        "type": "pdf",
+        "title": "iete.pdf",
+        "content": "[Page 1]\nIETE Student Forum (ISF) Activity Academic Year 2019-2020 Expert Lectures conducted under IETE Student Forum, G.P. Arvi Sr no Date Name of Expert Details subject 1 13/2/2019 Mr.kailash Salunke , Electrical Manager, Paralam Global Pvt Ltd Variable frequency drive and power saving 2 5/3/2019 Poonam Rathi, Councellor, Balaji Plastic Industries Personality development 3 6/3/2019 Director, Balaji Plastic Industries Entrepreneurship development 4 6/9/2019 Mr. Giresh Rathi, Director, Balaji Plastic Industries Entrepreneurship development 5 6/9/2019 Dr. shrikant Warhekar E-waste Management 6 20/9/2019 Poonam Rathi Councellor,Balaji Plastic Industries Carrier guidance and Personality development 7 23/9/2019 Mr.kailash Salunke, Electrical Manager, Paralam Global Pvt Ltd Variable frequency drive 8 18/2/2020 Mr. Sumit Jagtap Advance Communication and their Application 9 18/2/2020 Mr. Sumit Jagtap Basic Electronics and PCB designing 10 27/2/2020 Dr. Rahul Burange, Assistant Professor, KDK College of Engineering,Nagpur Network Security\n\n[Page 2]\nIETE Student Forum (ISF) Activity Academic Year 2020-2021 Expert Lectures conducted under IETE Student Forum, G.P. Arvi Sr no Date Name of Expert Details subject 1 17/1/2021 Mr. Sumit Jagtap Carrier guidance 2 3/2/2021 Mr.kailash Salunke , Electrical Manager, Paralam Global Pvt Ltd Automation Inputs and Outputs 3 5/6/2021 Mr. Karam Kadam, Hardware Expert, Visteon Corporation Hardware, Bangalore Advance Embedded system 4 5/6/2021 Mr Chetan Kale, Embeded Software Developer, L & T Technology Services Pvt.Ltd.Bangalore PCB designing using proteus tools 5 6/6/2021 Mr Sachin Khandelwal, Sub Divisional Engineer,ITBSNL Pune Introduction to Telecom sector\n\n[Page 3]\nIETE Student Forum (ISF) Activity Academic Year 2021-2022 Expert Lectures conducted under IETE Student Forum, G.P. Arvi Sr no Date Name of Expert Details subject 1 9/12/2021 Mr M.D.Athar Introduction to Robotics 2 10/4/2022 Government Polytechnic,Arvi Online Video Creation Competition 3 19/4/2022 Mr Rangankar and Mr Khandare, Carrier guidance and Counseling Carrier guidance and Counseling 4 19/11/22 Mr.kailash Salunke, Electrical Manager, Paralam Global Pvt Ltd Introduction to Industrial Automation",
+        "size_bytes": 603275
+    },
+    {
+        "url": "https://gparvi.ac.in/iste.pdf",
+        "type": "pdf",
+        "title": "iste.pdf",
+        "content": "[PDF - no extractable text]",
+        "size_bytes": 1268284
+    },
+    {
+        "url": "https://gparvi.ac.in/contact.html",
+        "type": "html",
+        "title": "Government Polytechnic Arvi",
+        "images": [
+            "https://gparvi.ac.in/index_files/orenge_strip(1).gif",
+            "https://gparvi.ac.in/images/dte_logo.gif",
+            "https://gparvi.ac.in/images/arvi_logo.jpg",
+            "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
+            "https://gparvi.ac.in/index_files/yellow_cornar2.gif",
+            "https://gparvi.ac.in/images/home1.jpg",
+            "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
+            "https://gparvi.ac.in/index_files/yellow_cornar2.gif"
+        ],
+        "sections": [
+            {
+                "heading": "",
+                "content": "Government Polytechnic Arvi | Home | Contact | Check Mail | Government Polytechnic, Arvi Approved by AICTE, Recognised by DTE & Affiliated to MSBTE e-mail : principal.gparvi@dtemaharashtra.gov.in office.gparvi@dtemaharashtra.gov.in About Us About Institute Principal's Desk Principal's Profile Organizational Structure Office Staff Deparments Chemical Engg. Civil Engg. Computer Engg. Electrical Engg. Electronics & Comm. Engg. Mechanical Engg. Science & Humanities Workshop CELL Student Guidance & Grievancess Redressal Cell Student Discipline & Anti Ragging Committee Anti Ragging Squad Girls & Women Development Cell Institute Level Curriculum Implementation Unit Training & Placement Introduction Placement Information Events Important Links Diploma Admission Procedure Maharashtra Government DTE MSBTE RO Nagpur MPSC AICTE ISTE Scholarship Portal Student's Chapter IEI IETE ISTE Contact Us Gallary Contact Us EMAIL-ID: principal.gparvi@dtemaharashtra.gov.in office.gparvi@dtemaharashtra.gov.in CONTACT NUMBER: 07157-222680(O) ADDRESS FOR COMMUNICATION: Government Polytechnic,Deurwada road,Arvi Tal:Arvi dist:Wardha State:Maharashtra Pin:442201 Copyright ©Government Polytechnic Arvi All Rights Reserved"
+            }
+        ]
+    },
+    {
+        "url": "https://gparvi.ac.in/gallary.html",
+        "type": "html",
+        "title": "Government Polytechnic Arvi",
+        "images": [
+            "https://gparvi.ac.in/index_files/orenge_strip(1).gif",
+            "https://gparvi.ac.in/images/dte_logo.gif",
+            "https://gparvi.ac.in/images/arvi_logo.jpg",
+            "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
+            "https://gparvi.ac.in/index_files/yellow_cornar2.gif",
+            "https://gparvi.ac.in/images/home1.jpg",
+            "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
+            "https://gparvi.ac.in/index_files/yellow_cornar2.gif"
+        ],
+        "sections": [
+            {
+                "heading": "",
+                "content": "Government Polytechnic Arvi | Home | Contact | Check Mail | Government Polytechnic, Arvi Approved by AICTE, Recognised by DTE & Affiliated to MSBTE e-mail : principal.gparvi@dtemaharashtra.gov.in office.gparvi@dtemaharashtra.gov.in About Us About Institute Principal's Desk Principal's Profile Organizational Structure Office Staff Deparments Chemical Engg. Civil Engg. Computer Engg. Electrical Engg. Electronics & Comm. Engg. Mechanical Engg. Science & Humanities Workshop CELL Student Guidance & Grievancess Redressal Cell Student Discipline & Anti Ragging Committee Anti Ragging Squad Girls & Women Development Cell Institute Level Curriculum Implementation Unit Training & Placement Introduction Placement Information Events Important Links Diploma Admission Procedure Maharashtra Government DTE MSBTE RO Nagpur MPSC AICTE ISTE Scholarship Portal Student's Chapter IEI IETE ISTE Contact Us Gallary Gallary Copyright Â©Government Polytechnic Arvi All Rights Reserved"
+            }
+        ]
+    },
+    {
+        "url": "https://gparvi.ac.in/ws/Fitting_Shop.pdf",
+        "type": "pdf",
+        "title": "Fitting_Shop.pdf",
+        "content": "[Page 1]\nFitting Shop Prof. In charge of Lab: -Dr Tripathi M.S. Lab Assistant: - Baghele R.B. & Lab Attendant :- Rathod H.P.\n\n[Page 2]\nFitting Shop (Major Equipments) Sr.no Name of Major Equipment Total Quantity 1 Bench Drilling Machine 1 2 Double Ended Grinder 1 3 Vice 16 4 Surface Plate 2 5 Marking Table 1",
+        "size_bytes": 306365
+    },
+    {
+        "url": "https://gparvi.ac.in/ws/Machine_Shop.pdf",
+        "type": "pdf",
+        "title": "Machine_Shop.pdf",
+        "content": "[Page 1]\nMachine Shop Prof. In charge of Lab: -Dr Tripathi M.S. Lab Assistant: - Padmawar S.B. & Lab Attendant : - Rathod H.P. ropriate Photo of Lab\n\n[Page 2]\nMachine Shop (Major Equipments) Sr.no Name of Major Equipment Total Quantity 1 CNC Milling (HI -Tech) 2 2 Universal Milling machine 1 3 Milling Machine 1 4 Universal Tool And Cutter Grinder 1 5 Radial Drilling Machine 1 6 Shaping machine 3 7 Slotting Machine 1 8 Power Saw Machine 1",
+        "size_bytes": 390727
+    },
+    {
+        "url": "https://gparvi.ac.in/ws/smithy_shop.pdf",
+        "type": "pdf",
+        "title": "smithy_shop.pdf",
+        "content": "[Page 1]\nSmithy Shop Prof. In charge of Lab: -Dr Tripathi M.S. Lab Assistant: - Nagmoti N.P. & Lab Attendant : - Rathod H.P. oto of Lab\n\n[Page 2]\nSmithy Shop (Major Equipments) Sr.no Name of Major Equipment Total Quantity 1 Air Blower 2 2 Open Hearth 2 3 Anvil (100 Kg) 2 4 Swage Block 2",
+        "size_bytes": 309420
+    },
+    {
+        "url": "https://gparvi.ac.in/ws/turning_shop.pdf",
+        "type": "pdf",
+        "title": "turning_shop.pdf",
+        "content": "[Page 1]\nTurning Shop Prof. In charge of Lab: -Dr Tripathi M.S. Lab Assistant ( Instructor): - Telange S. N. & Lab Attendant: -Rathod H.P. te Photo of Lab\n\n[Page 2]\nTurning Shop (Major Equipments) Sr.no Name of Major Equipment Total Quantity 1 Lathe machine Kirloskar (Turn Master -35) 6 2 Lathe machine (Super -20) 1 3 Lathe Machine (C6240) 10 4 Lathe Machine (Super Venus HG-4) 3 4 Lathe Machine (Tiger Brand Super) 5 5 Lathe Machine kirloskar (Enterprises -1550M) 2 6 Single Auto Lathe Machine 1 7 Double Ended Grinder 1 8 Bench Drilling Machine (Kerry Super) 2 9 Power Saw Machine (Ve Kkey Brand) 1 10 EDM Machine 1",
+        "size_bytes": 295192
+    },
+    {
+        "url": "https://gparvi.ac.in/ws/nitin_chandurkar.pdf",
+        "type": "pdf",
+        "title": "nitin_chandurkar.pdf",
+        "content": "[Page 1]\nGOVERNMENT POLYTECHNIC ARVI FACULTY PROFILE DEPARTMENT : WORKSHOP DEPARTMENT 1) Name of the faculty member : Nitin B. Chandurkar 2) Designation : Workshop Superintendent 3) Date of Birth & Age : 02th Sept. 1970 4) Date of joining Tech Ed Dept : 07th Aug. 1997 5) Date of joining G .P. Aravi : 30th June, 2019 6) Address for correspondence : C/o Deshmukh Complex At. P ost – Wathoda (Bhaipur) Tq- Arvi, Dist: Wardha. Maharashtra Pin 44 2 201 7) Mobile No. : 9422856908 8) email ID : chandurkarnb @gmail.com 9) Academic Qualification (Bachelor Degree onwards) Sr. No. Degree Held University Year of passing Specialization 1 B.E. S.G.B.U.Amravati University Amravati 1995 Mech anical Engineering 2 M.E. Punjab University , Chandigarh 2012 Manufacturing Tech nology 10) Details about training / seminars / works hop etc (From years 201 8-19, 201 7-18, 2016 -17) Training attended : All Trainings completed as per required. (From years 2018-19, 201 7-18, 2016 -17) 11) Achievement s : 1. The president awarded for research in science and technology in 1995. 2. The modern exhibition on Robots held at this institute in 2019 -20. 3. The strong foundation for the machineries in workshop made at this institute in 1920 -21.",
+        "size_bytes": 273615
+    },
+    {
+        "url": "https://gparvi.ac.in/ws/SNT.pdf",
+        "type": "pdf",
+        "title": "SNT.pdf",
+        "content": "[Page 1]\nGOVERNMENT POLYTECHNIC ARVI FACULTY PROFILE DEPARTMENT: WORKSHOP DEPARTMENT 1. Name of the faculty member : Telange Shivraj Namdev 2. Designation : Instructor Turner 3. Date of Birth & Age : 05th Jun 1989 4. Date of joining Tech Ed Dept : 09th October 2017 5. Date of joining G P Aravi : 09th October 2017 6. Address for correspondence : At Chincholi (P.K) Post - Bachoti Taluka - kandhar Dist - Nanded Maharashtra -431714 7. Mobile No.: 9637915236 email : telange.shivraj @gmail.com 8. Academic Qualification (Bachelor Degree onwa rds) Sr. No. Degree Held University Year of passing Specialization 1 ITI Nanded 2010 Turner Trade 2 NCVT BTRI 2011 Turner Trade 3 BA YCMOUN 2012 Economics 4 Diploma MSBTE Mumbai 2014 Mechanical Engg 9. Research Publication : NA 10. Details about training / seminars / workshop etc :- As Below (From years ---------- ) A) Expert Lecture/Seminar delivered N.A B) Training attended (From years 201 8-19, 201 7-18, 2016 -17) Sr. No Title ISTE/MSBTE/DTE/AIC TE/YASHADA/NITTTR/ OTHER Date Venue Days/Week 1 Endurance PVT Ltd Aurangabad Endurance Pvt Ltd 2015 To 2017 Aurangaba d 2 year 2 E-Tendering & GEM YESHADA 13/06/2018 To 14/06/2018 Wardha 2 Days",
+        "size_bytes": 100439
+    },
+    {
+        "url": "https://gparvi.ac.in/ws/HPR.pdf",
+        "type": "pdf",
+        "title": "HPR.pdf",
+        "content": "[Page 1]\nGOVERNMENT POLYTECHNIC ARVI FACULTY PROFILE DEPARTMENT: WORKSHOP DEPARTMENT 1. Name of the faculty member :-Rathod Haridas Parmsing 2. Designation : Hamal 3. Date of Birth & Age : 01th Sept 1973 4. Date of joining Tech Ed Dept : 15th May 1999 5. Date of joining G P Aravi : 15th may 1999 6. Address for correspondence : At Post Dhahegaon (Mustafa) Taluka – Arvi Dist - Wardha Maharashtra -442201 7. Mobile No.: -9881152742 email : - 8. Academic Qualification (Bachelor Degree onwards) Sr. No. Degree Held University Year of passing Specialization 1 SSC Nagpur Marathi 9. Research Publication : Nil 10. Details about training / seminars / workshop etc :- NA (From years ---------- ) A) Expert Lecture/Seminar delivered N.A B) Training attended (From years 201 8-19, 201 7-18, 2016 -17) :- NA",
+        "size_bytes": 87809
+    },
+    {
+        "url": "https://gparvi.ac.in/sci/chemistry.pdf",
+        "type": "pdf",
+        "title": "chemistry.pdf",
+        "content": "[Page 1]\nLaboratory Name : CHEMISTRY Laboratory Description : The lab helps to improve the knowledge of engineering materials, their properties, related application and selection of material for engineering application. Faculty In -charge : Dr. P. B. Sarode Lab In-charge : Dr. P. B. Sarode Area of Lab : 125.60 sq. mt Major Equipment’s/ Software : 1. pH Meter 2. Conductivity Meter 3. Oven 4. Muffle Furnace 5. Electronic Bal ance.\n\n[Page 2]\n",
+        "size_bytes": 266716
+    },
+    {
+        "url": "https://gparvi.ac.in/sci/llab.pdf",
+        "type": "pdf",
+        "title": "llab.pdf",
+        "content": "[Page 1]\nLaboratory Description: English being the global language has much importance in today’s Era. The lab offers a good platform for students to develop their writing skill, through different activities like notice, memo report, letter writing etc. The activities like power point presentation, group discussion, and debate help student to build their confidence and improve their personality as well as communication skills. Faculty In-charge : P. W. Katore Lab In-charge : A.N.Wankhade Area of Lab : 66.90 sq. mt Major Equipment’s/ Software : 1. English Edu.-Will.Wordsworth - Language Lab software 2. Shakshat Virtual Lab( IIT Guwahati) 3. Personal Computer-Lenovo -10 with Windows 7. 4. Personal Computer-HP with Windows -7. 5. LCD Projector 6. Headphone-21 7. Speaker-05.",
+        "size_bytes": 1169205
+    },
+    {
+        "url": "https://gparvi.ac.in/sci/physics.pdf",
+        "type": "pdf",
+        "title": "physics.pdf",
+        "content": "[Page 1]\nLaboratory Name : PHYSICS Laboratory Description : Principles of scientific phenomenon are well developed through various practicals and experiments that are performed in physics lab. The focus of the practicals is to develop psychomoto r skills. Faculty In -charge : R. M. Kodape Lab In-charge : N. S. Sawala Area of Lab : 125.60 sq. mt Major Equipment’s/ Software : 1. Capacitance of series Combination. 2. Digital Power Supply. 3. Spectrometer sodium lamps. 4. Searl’s apparatus (Thermal conductivity) . 5. Photo electric effect setup. 6. Platinum Resistance Thermometer\n\n[Page 2]\n",
+        "size_bytes": 268724
+    },
+    {
+        "url": "https://gparvi.ac.in/sci/PWK.pdf",
+        "type": "pdf",
+        "title": "PWK.pdf",
+        "content": "[Page 1]\nGOVERNMENT POLYTECHNIC, ARVI . FACULTY INFORMATION DEPARTMENT OF SCIENCE & HUMANITIES 1. Name of the Faculty Member : PRAKASH WASUDEO KATORE 2. Designation : LECTURER -IN-ENGLISH 3. Date of Birth : 24-05-1977 4. Date of Joining Tech Ed. Dept. : 17-01-2006 5. Date of Joining G. P. Arvi : 05-10-2022 6. Address for Correspondence : GOVERNMENT POLYTECHNIC,ARVI. 7. Mobile No. : 9527159599 8. E-mail Address : katoregparvi@rediffmail.com 9. Academic Qualification (Bachelor Degree Onwards) Sr. No. Degree Held University Year of Passing Specialization 1 B.A. SGB AMRAVATI UNIVERSITY 1998 ENGLISH 2 M.A. SGB AMRAVATI UNIVERSITY 2000 ENGLISH 3 B.Ed. SGB AMRAVATI UNIVERSITY 2001 ENGLISH,HISTORY 10. Research Publication : NIL 11. Details about Training /Semi nars/Workshop etc. (F rom year 2019 -20, 2020 -21 & 2021 -22) A) Expert Lecture /Seminar delivered (From year 2019 -20, 2020 -21 & 2021 -22) Sr. No. Title of Lecture / Seminar Date Venue _NIL_ B) Workshop /Seminar Attended (From year 2019 -20, 2020 -21 & 2021 -22) Sr. No. Name of Workshop / Seminar Attended Date Venue Days / Weeks 1 Webinar on Re search in English Language Teaching 15-22 June2020 GITAM Hyderabad 08 Days 2 Bridging Research Perspectives -2020 15-17 July2020 GVISH, Amravati 03 Days\n\n[Page 2]\n12. Training Attended (F rom year 2019 -20, 2020 -21 & 2021 -22) Sr. No. Title ISTE / MSBTE / AICTE/ NITTTR /Other Date Venue Days / Weeks 1 STTP on Philosophy and Design of Outcome Based Education (OBE) SPIT Mumbai 30Nov - 05Dec2020 SPIT Mumbai 1 week 2 STTP on Implemen tation of Outcome Based Education (OBE) for Holistic Development SPIT Mumbai 04Jan -09 Jan2021 SPIT Mumbai 1 week 3 STTP on Personality Development with Yoga DTE/MSBTE 21June -28 June202 0 Yoga Vidya Gurukul, Nasik 1 week 4 National level FDP on G -suite & Allied Tools in Education,Teaching and e -Content Development SGBAU, Amravati. 29 June -04 July 202 0 PGDCSc, SGBAU, Amravati. 1 week 5 Improving Communication Skills MSBTE 28June to 02nd July 2020 SVERI’s College of Engineering (Polytechnic), Pandharpu r 1 week 6 Communication Skills and Personality Development DTE/ MSBTE / ISTE/ 27July to 03 August2020 Government Polytechnic, Hingoli. 1 week -Sd- (PRAKASH WASUDEO KATORE ) Lect. In English",
+        "size_bytes": 443653
+    },
+    {
+        "url": "https://gparvi.ac.in/sci/cds.pdf",
+        "type": "pdf",
+        "title": "cds.pdf",
+        "content": "[Page 1]\nGOVERNMENT POLYTECHNIC,ARVI FACULTY INFORMATION DEPARTMENT:- SCIENCE AND HUMANITIES 1. Name of the faculty member :- Ku. Chetna Diliprao Shetye 2. Designation :- Lecturer in Mathematics 3. Date of birth and age :- 06/04/1984 and 37 yrs 4. Date of joining Tech. Ed. Dept :- 13/07/2009 5. Date of joining G P Arvi :- 30/10/2021 6. Address for correspondence :- Government polytechnic Arvi 7. Mobile number :- 8605207039 8. Aadhar number :- 325158400781 9. Academic Qualification(Bachelor Degree Onward) Sr.No. Degree held University Year of passing Specialization 1 B.Sc. Pune 2004 Mathematics 2 M.Sc. Pune 2006 Pure Mathematics 3 B.Ed Pune 2008 Mathematics 10. Research Publication:- 00 11. Details about training / seminars/workshops etc.(from years 2020-21,2019-20, 2018-19) A) Expert Lecture/ seminar/ Workshop delivered (from year 2020-21, 2019-20, 2018-19). B) workshop/Seminar Attended (From years 2020-21, 2019-20, 2018-19). Sr. No. Name of workshop/Seminar Attended Date Venue Day/Week 1 Research paper & research proposal (Online) 1 Feb -12 Feb 2021 NITTTR,BHOPAL 2 Weeks C) Training Attended (From years 2020-21,2019-20, 2018-19). Sr. No. Title IEEE/IIT/AISSMS/AICTE/NITTTR Bhopal /CU Jharkhand/ Date Days/Weeks 1. FDP on \"CUMMINS WEBCLAVE-2020\" organised by department of Computer engg. in Association with ISA delhi section ,IEEE Nagpur sub section 29-05-2020 to 4/6/2020 1 Week 2 One week STTP on \"Renewable energy and technology\" Electrical department of padm. Dr. V . K Kolte college of engg ,Malkapur 15-06-2020 to 19-06-2020 1 Week 3 FDP on Embracing the creative side of teaching and learning methods RMK college of engineering and technology,Puduvoyal 29-06-2020 to 3/7/2020 1 Week 4 International level One week Staff develpoment Spoken tutorial project,IIT Bombay And by Department of chemical and 3/7/2020 to 1 Week\n\n[Page 2]\nprogram on \"Introduction to computers\" E & TC Engineering,AISSMS college of Engineering Pune 9/7/20 5 FDP on \"Quality education through OBE\" sponsered by AICTE under Margadarshan ,hosted by Vardhaman college of engineering ,Hyderabad 13-07-2020 to 17-07-2020 1 Week 6 International FDP on \"Technologies with social relevance\". Department of Electronics and communication engineering,GMR institude of technology , Rajam, AP,India 27-07-2020 to 1/8/2020 1 Week 7 Phase -I of STTP on \" IoT and Advanced power electronics applications in smart grid. sponsered by AICTE and organised by department of electrical engineering ,KK Wagh institute of engineering education and research,Nashik 10/8/2020 to 14-08-2020 1 Week 8 Online STTP on \"Mitigation of power quality issues in distributed generation systems using costum power devices -II sponsered by AICTE And organised by department of electrical And electronics engineering, RMD Engg college, Tamilnadu,India 17-08-2020 to 24-08-2020 1 Week 9 INDUCTION PHASE-I NITTTR,Bhopal 24-08-2020 to 4/9/2020 2 Week 10 INDUCTION PHASE-II NITTTR,Bhopal 21-09-2020 to 2/10/2020 2 Week 11 Online training for mathematics on engineering application NITTTR,Bhopal 15-2-2021 to 19-2-2021 1 Week 12 Online training on mathematics with scilab NITTTR,Bhopal 3-11-2020 to 4- 12-2020 1 Week 13 Online FDP on Recent development in Mathematical Sciences (RDMS) CU Jharkhand 6-11-2020 to 10-11-2020 1 Week Signature",
+        "size_bytes": 251427
+    },
+    {
+        "url": "https://gparvi.ac.in/mech/PEN.pdf",
+        "type": "pdf",
+        "title": "PEN.pdf",
+        "content": "[Page 1]\nPOWER ENGINEERING Major Equipments  Multi -cylinder Diesel Engine Test rig  Multi -cylinder four stroke Petrol Engine Test Rig  Neptune Exhaust Gas Analyser  Two stage air compressor Test rig  Portable Power Generator Lab In charge Mr.K. R. Bhageriya",
+        "size_bytes": 196391
+    },
+    {
+        "url": "https://gparvi.ac.in/mech/MQC.pdf",
+        "type": "pdf",
+        "title": "MQC.pdf",
+        "content": "[Page 1]\nMETROLOGY & QUALITY COTROL Major Equipments  Monochromatic Interference Unit  Profile projector  Slip gaugesset  Pneumatic Comparator  Floating carriage micrometer  Angle Dekkor  Optical profile Projector  Ultra sonic Flaw Detector  Surface Roughness Tester Lab In charge Mr. A. P. Deulkar",
+        "size_bytes": 196597
+    },
+    {
+        "url": "https://gparvi.ac.in/mech/TEN.pdf",
+        "type": "pdf",
+        "title": "TEN.pdf",
+        "content": "[Page 1]\nTHERMAL ENGINEERING Major Equipments  Model of Cochran boiler  Stop valveHopkinson type  Greens Economizer  SudgemSuper Heater  Model of Steam engine  Throttlevalve  Surface Steam condenser  Model of Lancashire boiler  Model of Bab cock & will cocks boiler  OrsatAppratus with 4 pipettes  PenskyMartens Flash point appar atus  Air Blower Test Rig Lab In charge Mr. S. S. Moon",
+        "size_bytes": 197029
+    },
+    {
+        "url": "https://gparvi.ac.in/mech/TOM.pdf",
+        "type": "pdf",
+        "title": "TOM.pdf",
+        "content": "[Page 1]\nTHEORY OF MACHINES Major Equipments  Single Stage Spur Gear  Single Helical Gear  Herringbone Gear  Internal Gear &Pinion Drive  Rack Pinion Model  Epicycle Gear  Worm Gear  Friction Wheel Drive  Geneva Drive  Slider Crank Mechanism Reciprocating Engine  Scotch Yoke Mechanism  Watts Mechanism  Cams & Followers  Action Of Cams  Double Shoe Brake  Band Brake  Belt Drive Single Speed  Belt Drive two Stage  Universal Coupling  Oldham’s Coupling Lab In charge Mr. A. P. Deulkar",
+        "size_bytes": 294520
+    },
+    {
+        "url": "https://gparvi.ac.in/mech/AEN.pdf",
+        "type": "pdf",
+        "title": "AEN.pdf",
+        "content": "[Page 1]\nAUTOMOBILE ENGINEERING Major Equipments  Demonstration LMV Car Chassis  Rack & Pinion Steering  Differential Gear Box  Synchromesh Gear Box Five Speed  Instruction model Two stroke Petrol engine  Instruction model Two stroke Diesel engine  Drive Shaft Lab In charge Mr.R.P.Borudkar",
+        "size_bytes": 196489
+    },
+    {
+        "url": "https://gparvi.ac.in/mech/FMM.pdf",
+        "type": "pdf",
+        "title": "FMM.pdf",
+        "content": "[Page 1]\nFLUID POWER Major Equipments  Hydraulic Trainer with Power pack  Pneumatic Trainer kit  Reciprocating pump Test Rig  Hydraulic Ram  Gear pump Test Rig  Air Blower Test Rig  Centrifugal Pump Test Rig Lab In charge Mr. M. T. Sohel",
+        "size_bytes": 197251
+    },
+    {
+        "url": "https://gparvi.ac.in/mech/MAC.pdf",
+        "type": "pdf",
+        "title": "MAC.pdf",
+        "content": "[Page 1]\nMECHANICAL MEASUREMENTS AND CONTROL Major Equipments  Temperature Measurement Tutor  Speed Measurement Model using Stroboscope  Lathe tool Dynamometer  Surface Grinding Tool Dynamometer  Strain Measurement Apparatus with Carrier Frequency Amplifier  Level Measurement Capacitive Transducer  Load measurement using Load Cell  Digital IT LVDT Model  Flow Measurement Model with Rota meter  Stroboscope (5000 RPM)  Thermocouple Lab In charge Mr. P. P. Patil",
+        "size_bytes": 196943
+    },
+    {
+        "url": "https://gparvi.ac.in/mech/RAC.pdf",
+        "type": "pdf",
+        "title": "RAC.pdf",
+        "content": "[Page 1]\nREFRIGERATION & AIR CONDITIONING Major Equipments  VCR cycle Test rig  Air Condition Test Rig  Ice Plant Capacity 120 kgs per day Test Rig  Hermetically Sealed Compressor Cut-section Lab In charge Mr. S. S. Moon",
+        "size_bytes": 196062
+    },
+    {
+        "url": "https://gparvi.ac.in/mech/CAD_CAM.pdf",
+        "type": "pdf",
+        "title": "CAD_CAM.pdf",
+        "content": "[Page 1]\nCAD CAM Major Equipments  Computers - 20 nos  Hp laser jet printer 1022n  Hp scanjet g2410 scanner  LCD projector  Think D design expressions think 3 software  CATIA software  Single integrated automation studio software Lab In charge Ms. N. D. Rokde\n\n[Page 2]\n",
+        "size_bytes": 197061
+    },
+    {
+        "url": "https://gparvi.ac.in/mech/1stsem.pdf",
+        "type": "pdf",
+        "title": "1stsem.pdf",
+        "content": "[Page 1]\nMAHARASHTRA STATE BOARD OF TECHNICAL EDUCATION, MUMBAI Diploma Programme in Mechanical Engineering I – Scheme Programme Educational Objectives (PEOs) (What s/he will continue to do even after 3-5 years of working in the industry ) PEO 1. Provide socially responsible, environment friendly solutions to Mechanical engineering related broad-based problems adapting professional ethics. PEO 2. Adapt state-of-the-art Mechanical engin eering broad-based technologi es to work in multi- disciplinary work environments. PEO 3. Solve broad-based problems individually a nd as a team member communicating effectively in the world of work. Program Outcomes (POs) given by NBA. (What s/he will be to do at the entry point of industry soon after the diploma programme) PO 1. Basic knowledge: Apply knowledge of basic mathematics, sciences and basic engineering to solve the broad-based Mechanical engineering problems. PO 2. Discipline knowledge: Apply Mechanical engineering knowledge to solve broad-based mechanical engineering related problems. PO 3. Experiments and practice: Plan to perform experiments and practices to use the results to solve broad-based Mechanical engineering problems. PO 4. Engineering tools: Apply relevant Mechanical te chnologies and tools with an understanding of the limitations. PO 5. The engineer and society: Assess societal, heal th, safety, legal and cultural issues and the consequent responsibilities relevant to prac tice in field of Mechanical engineering. PO 6. Environment and sustainability: Apply Mechanical engineering solutions also for sustainable development practices in societal and environmental contexts. PO 7. Ethics: Apply ethical principles for commitment to professional ethics, responsibilities and norms of the practice also in the field of Mechanical engineering. PO 8. Individual and team work: Function effectively as a leader and team member in diverse/ multidisciplinary teams. PO 9. Communication: Communicate effectively in oral and written form. PO 10. Life-long learning: Engage in independent and life-long le arning activities in the context of technological changes also in the Mechanical engineering and allied industry. Program Specific Outcomes (PSOs) (What s/he will be to do in the Mechanical engineering specific industry soon after the diploma programme) PSO 1. Modern Software Usage: Use latest Mechanical engineer ing related softwa res for simple design, drafting, manufacturing, maintenance and documentation of mechanical engineering components and processes. PSO 2. Equipment and Instruments: Maintain equipment and instruments related to Mechanical Engineering.\n\n[Page 2]\nPSO 3. Mechanical Engineering Processes: Manage Mechanical engineering processes by selecting and scheduling relevant equipment, substrates, quality control techniques, and operational parameters. Notes for All the Semesters 1. Every student has to separately pass in End-Semester-Examination (ESE) for both theory and practical by securing minimum of 40% marks, (i.e. 30 out of 75, 28 out of 70, 20 out of 50, and 10 out of 25). 2. Progressive Assessment (PA) for Theory includes Written Exam/micro projects/ Assignment/Quiz/Presentations/attendance acco rding to the nature of the course. The scheme and schedule for progres sive assessment should be informed to the students and discussed with them at the start of the term. This scheme should also be informed in writing to the principal of the institute. 3. Teachers need to give marks judiciously for PA of theory and practical so that there is always a reasonable correlation between the ESE marks obtained by the student and the PA marks given by respective teachers for the same student . In case the PA marks in some courses of some students seems to be relatively inflated in comparison to ESE marks, then MSBTE may review the PA records of such students. 4. For developing self-directed learning skills, from each course about 15-20% of the topics/sub-topics, which are relatively simpler or descriptive in nature are to be given to the students for self-study and proper learning of these topics should be assured through classroom presentations by students (see implementation guideline for details). 5. Passing Criterion for Theory and Practical Courses for all Semesters a. Passing Criterion for Theory course : - Each Theory course consists of 2 components, ESE (End Semester Examination) and PA (Progressive Assessment) (i) The passing criterion for each theory course is obtaining minimum 40% of marks allotted to ESE & PA component together. [i.e. for total marks of ESE (70 marks) + PA(30 marks) together = (Total 70+30 =100), obtaining minimum 40 marks are mandatory for passing the Theory course.] (ii) To qualify for above condition (i), obtaining minimum 40% of marks allotted to ESE component is mandatory. [i.e. for total marks of ESE = 70, obtaining minimum 28 marks are mandatory. For passing ESE component) b. Passing Criterion for Practical course : - Practical course consists of 2 components, ESE (End Semester Examination) and PA (Progressive Assessment) (i) ESE and PA components of Practical course are independent head of passing. (ii) The passing criterion for ESE component is obtaining minimum 40 % of marks allotted to ESE component. [i.e. for total marks of ESE= 25, obtaining minimum 10 marks are mandatory for passing in ESE component] (iii) The passing criterion for PA component is obtaining minimum 40 % of marks allotted to PA component. [i.e. for total marks of PA= 25, obtaining minimum 10 marks are mandatory for passing in PA component] Note: - If Candidate not securing minimum marks for passing in the PA part of practical of any course of any semester then the candidate shall be declared as detained for that semester.",
+        "size_bytes": 6172474
+    },
+    {
+        "url": "https://gparvi.ac.in/mech/2ndsame.pdf",
+        "type": "pdf",
+        "title": "2ndsame.pdf",
+        "content": "[PDF - no extractable text]",
+        "size_bytes": 3735048
+    },
+    {
+        "url": "https://gparvi.ac.in/mech/3rdsame.pdf",
+        "type": "pdf",
+        "title": "3rdsame.pdf",
+        "content": "[PDF - no extractable text]",
+        "size_bytes": 5617869
+    },
+    {
+        "url": "https://gparvi.ac.in/mech/4thsame.pdf",
+        "type": "pdf",
+        "title": "4thsame.pdf",
+        "content": "[PDF - no extractable text]",
+        "size_bytes": 121148
+    },
+    {
+        "url": "https://gparvi.ac.in/mech/5thsame.pdf",
+        "type": "pdf",
+        "title": "5thsame.pdf",
+        "content": "[PDF - no extractable text]",
+        "size_bytes": 154429
+    },
+    {
+        "url": "https://gparvi.ac.in/mech/6thsame.pdf",
+        "type": "pdf",
+        "title": "6thsame.pdf",
+        "content": "[PDF - no extractable text]",
+        "size_bytes": 142140
+    },
+    {
+        "url": "https://gparvi.ac.in/mech/odd1920.pdf",
+        "type": "pdf",
+        "title": "odd1920.pdf",
+        "content": "[Page 1]\n",
+        "size_bytes": 371645
+    },
+    {
+        "url": "https://gparvi.ac.in/mech/even1920.pdf",
+        "type": "pdf",
+        "title": "even1920.pdf",
+        "content": "[Page 1]\n",
+        "size_bytes": 374863
+    },
+    {
+        "url": "https://gparvi.ac.in/mech/odd2021.pdf",
+        "type": "pdf",
+        "title": "odd2021.pdf",
+        "content": "[Page 1]\n\n\n[Page 2]\n\n\n[Page 3]\n",
+        "size_bytes": 1165457
+    },
+    {
+        "url": "https://gparvi.ac.in/mech/even2021.pdf",
+        "type": "pdf",
+        "title": "even2021.pdf",
+        "content": "[Page 1]\n",
+        "size_bytes": 354081
+    },
+    {
+        "url": "https://gparvi.ac.in/mech/odd2122.pdf",
+        "type": "pdf",
+        "title": "odd2122.pdf",
+        "content": "[Page 1]\n\n\n[Page 2]\n\n\n[Page 3]\n",
+        "size_bytes": 1222078
+    },
+    {
+        "url": "https://gparvi.ac.in/mech/even2122.pdf",
+        "type": "pdf",
+        "title": "even2122.pdf",
+        "content": "[Page 1]\n\n\n[Page 2]\n",
+        "size_bytes": 758674
+    },
+    {
+        "url": "https://gparvi.ac.in/mech/achivements.pdf",
+        "type": "pdf",
+        "title": "achivements.pdf",
+        "content": "[Page 1]\nFACULTY ACHIEVEMENTS Sr. no. Faculty Name Publication /Patent/Conference 1 Mr. K. R. Bhageriya Paper in International Journal of Interdisciplinary Research on “A review on Hydrogen Energy” 2 Mr. M. T. Sohel Literary/ Dramatic work poster 3 Mr. M. T. Sohel Patent - FIXTURE FOR CIRCULAR COMPONENTS",
+        "size_bytes": 274689
+    },
+    {
+        "url": "https://gparvi.ac.in/mech/res_aneven22.pdf",
+        "type": "pdf",
+        "title": "res_aneven22.pdf",
+        "content": "[Page 1]\nANALYSIS OF TERM END EXAMINATION RESULT Program : Diploma In Mechanical Engineering Examination: Summer 2022 Semest er : SIXTH (ME6I) Sr. No. Subject Code Name of Subject Type of Exam Marks Marks No. of Student Appear ed No of Student Pass % Pass Obtain Lowest Obtain Highes t 1 22652 ETM TH-ESE 28 57 45 43 95.56 TH-PA 15 26 45 45 100.00 2 22655 IHP TH-ESE 28 58 45 23 51.11 TH-PA 16 28 45 45 100.00 PR-ESE 19 23 45 45 100.00 PR-PA 18 23 45 45 100.00 3 22656 AEN TH-ESE 28 59 45 25 55.56 TH-PA 13 30 45 45 100.00 PR-ESE 20 24 45 45 100.00 PR-PA 19 25 45 45 100.00 4 22657 IEQ TH-ESE 28 62 45 28 62.22 TH-PA 11 29 45 45 100.00 PR-ESE 20 23 45 45 100.00 PR-PA 19 23 45 45 100.00 5 22660 RAC TH-ESE 28 60 45 28 62.22 TH-PA 11 30 45 45 100.00 PR-ESE 17 24 45 45 100.00 PR-PA 16 25 45 45 100.00 6 22032 EDE PR-ESE 41 45 45 45 100.00 PR-PA 38 43 45 45 100.00 7 22060 CPE PR-ESE 44 48 45 45 100.00 PR-PA 42 47 45 45 100.00\n\n[Page 2]\n",
+        "size_bytes": 207407
+    },
+    {
+        "url": "https://gparvi.ac.in/mech/extra.pdf",
+        "type": "pdf",
+        "title": "extra.pdf",
+        "content": "[Page 1]\nDETAILS OF CO -CURRICULAR ACTIV ITY Academic Year: 2021 -22 Program: Diploma In Mechanical Engineering Sr. No. Types of Activity & Details (Paper Presentation / Project / Quiz Competition / etc.) Date Name of Participating Student Organizing Body And Organizing Institute Level (State / National / etc.) 1 PROJECT COMPETITON 15/5/2022 ME6I G.P.ARVI INSTITUTE 2 ONLINE QUIZ COMPETITION 17/5/2022 ALL STUDENTS G.P.ARVI INSTITUTE 3 LOGO COMPETITION 20/5/2022 ALL STUDENTS G.P.ARVI INSTITUTE\n\n[Page 2]\nDETAILS OF EXTRA CARRICULAR ACTIVITY Academic Year: 2021 -22 Program: Diploma In Mechanical Engineering Sr. No. Types of Activity & Details (Sports / Drama / Social / NSS / etc.) Date Name of Participating Student Organizing Body And Organizing Institute Awards (Winner / Participation) Level (State / National / etc.) Relevance with PEO’s, PO’s and CO with Course Code (Only Nos.) 1 CHESS 14/3/2022 MAHESH CHOPDE G.P.ARVI PARTICIPANT INSTITUTE PEO1 ,PO5 2 VEDANT THAKRE 3 HARSHAL YENGANDHEWAR 4 SHREYASH DHOKE 5 YASH YADAV 6 SOHAM MISAL\n\n[Page 3]\n",
+        "size_bytes": 287830
+    },
+    {
+        "url": "https://gparvi.ac.in/mech/placement_details.pdf",
+        "type": "pdf",
+        "title": "placement_details.pdf",
+        "content": "[Page 1]\nDETAILS OF PLACEMENT Academic Year: 2021 -22 Program: Diploma In Mechanical Engineering Sr. No. Name of Industry & Contact Details No. of Students Places Salary Offered 1 BAJAJ AUTO LTD. WALUJ 14 1,38,000/ -P.A 2 BAJAJ AUTO LTD. PUNE 4 1,38,000/ -P.A 3 THORAIT CO. 1 1,68,000/ -P.A 4 SUBROS PVT LTD PUNE 20 1,29,600/-P.A 5 SIGMA ELECTRICAL SOLUTIONS PUNE 1 1,44,000/-P.A",
+        "size_bytes": 187712
+    },
+    {
+        "url": "https://gparvi.ac.in/mech/load-22-23.pdf",
+        "type": "pdf",
+        "title": "load-22-23.pdf",
+        "content": "[PDF - no extractable text]",
+        "size_bytes": 736318
+    },
+    {
+        "url": "https://gparvi.ac.in/mech/ROLL LIST-ME-22-23.pdf",
+        "type": "pdf",
+        "title": "ROLL LIST-ME-22-23.pdf",
+        "content": "[PDF - no extractable text]",
+        "size_bytes": 2074240
+    },
+    {
+        "url": "https://gparvi.ac.in/mech/RPB.pdf",
+        "type": "pdf",
+        "title": "RPB.pdf",
+        "content": "[Page 1]\nName : Roopkumar Pandhari Borudkar Designation : Lecturer in Mechanical Engineering Mobile No. : 9423413290 Email : rpborudkar @gmail.com Educational Qualification : 1. B.E (Mechanical) 2. M.E. ( Mechanical - Design Engineering ) Experience : 1. Industrial Experience – 01 Year 2. Teaching Experience – 24 Years. Area of Interest : Machine Design ,Engineering & Machine Drawing , Theory of machines, Publication Details ; A) National and International conferences/ Conference Proceedings: 1. Industry Institute Partnership – New Paradigm for Technical Teacher.\n\n[Page 2]\n",
+        "size_bytes": 287875
+    },
+    {
+        "url": "https://gparvi.ac.in/GKD Profile.pdf",
+        "type": "pdf",
+        "title": "GKD Profile.pdf",
+        "content": "[Page 1]\nGOVERNMENT POLYTECHNIC ARVI FACULTY TRAINING INFORMATION DEPARTMENT: MECHANICAL ENGINEERING DEPARTMENT 1. Name of the faculty member : Mr. Gajanan Kisanrao Dhongade 2. Designation : Lecturer in Mechanical Engg. D epartment. 3. Date of Birth & Age : 01/07 /1977, 46 years 4. Date of joining Tech Ed Dept : 13/09/2011 5. Date of joining G P Arvi : 01/06/2023 6. Address for correspondence : Govt. Polytechnic, Arvi. Distt: Wardha 7. Mobi le No.: 9764282509 email : gkd1979 @gmail.com 8. Academic Qualification (Bachelor Degree onwards) Sr. No. Degree Held University Year of passing Specialization 1 B.E. Nanded University, Nanded 2003 Mechanical Engineering 2 M.E. Amravati University, Amravati 2015 Production Tech & Mngt. 9. Research Publication : Nil 10. Details about training / seminars / workshop etc (From years 201 8-19, 201 7-18, 2016 -17) Sr. No. Name of Workshop / Seminar Attended Date Venue Days/Week 1 Research Me thodology and Its Application 9 jan to 13 jan 2017 G.P Amravati 1 week A) Training attended (From years 2018-19, 2020 -21, 2021 -22) Sr. No Title ISTE/MSBTE/D TE/AICTE/YAS HADA/NITTTR/ OTHER Date Venue Days/Week 1 Refresher Training Yashda Pune Yashda 06/1/2020 to 10/1/2020 Yashda Pune 5 days Signature",
+        "size_bytes": 31859
+    },
+    {
+        "url": "https://gparvi.ac.in/mech/APD.pdf",
+        "type": "pdf",
+        "title": "APD.pdf",
+        "content": "[Page 1]\nGOVERNMENT POLYTECHNIC ARVI FACULTY TRAINING INFORMATION DEPARTMENT: MECHANICAL ENGINEERING DEPARTME NT 1. Name of the faculty member : AJAY PURUSHOTTAM DEULKAR 2. Designation : LECTURER IN MECHANICAL ENGINEERING 3. Date of Birth & Age : 09 /11/1971, 50 Years 4. Date of joining Tech Ed Dept : 05/08/1996 5. Date of joining G P Arvi : 08/01/2022 6. Address for correspondence : PLOT NO 2, EKVEERA COLONY, DASTUR NAGAR AMRAVATI -444606 7. Mobile No.: 9822734703 email : ajay.deulkar999 @gmail.com 8. Academic Qualification (Bachelor Degree onwards) Sr. No. Degree Held University Year of passing Specialization 1 B.E.(Mech. Engg) Amravati University, Amravati 1993 Mechanical Engg 2 M.E. (Mech. Engg) Nil Nil NIL 3. PhD Nil Nil NIL 9. Research Publication : Nil in last five Years 10. Details about training / seminars / workshop etc (From years 201 8-19, 201 7-18, 2016 -17) A) Expert Lecture/Seminar delivered (From years 2018-19, 2017-18, 2016 -17) Sr. No. Title of Lecture / Seminar Date Venue B) Workshop / Seminar Attended (From years 2018-19, 201 7-18, 2016 -17) Sr. No. Name of Workshop / Seminar Attended Date Venue Days/Week C) Training attended (From years 2018-19, 201 7-18, 2016 -17)\n\n[Page 2]\nSr. No Title ISTE/MSBTE/D TE/AICTE/YAS HADA/NITTTR/ OTHER Date Venue Days/Week 1 Energy Management , audit &its conservation DTE, Mumbai 13/01/2020 to 17/01/2020 G.P.A rvi One week. 2 Effective online teaching learning method Sttp 18.05.20 to 23.05.20 Online One week 3 NBA norms & preparation of SAR FDP 25.5.20 to 29.5.20 Online One week 4 Introduction to OBE & enhancing quality of Teaching Learning process FDP 15.6.20 to 19.6.20 Online One week 5 Recent development in Mechanica l Engg FDP 7.7.20 to 11.7.20 Online One week 6 Electromechanical system under TEQIP -3 FDP 20.7.20 to 25.7.20 Online One week 7 Digital content development for effective & efficient Teaching STTP 27.7.20 to 1.8.20 Online One week Signature",
+        "size_bytes": 211451
+    },
+    {
+        "url": "https://gparvi.ac.in/Boob sir.pdf",
+        "type": "pdf",
+        "title": "Boob sir.pdf",
+        "content": "[Page 1]\nGOVERNMENT POLYTECHNIC ARVI FACULTY TRAINING INFORMATION DEPARTMENT: MECHANICAL ENGINEERING DEPARTMENT 1. Name of the faculty member : Mr. Pankaj Rambilasji Boob 2. Designation : Lecturer Mechanical Engg. Department. 3. Date of Birth & Age : 02/08/1977, 46 years 4. Date of joining Tech Ed Dept : 22/07/2013 5. Date of joining G P Arvi : 07/07/2023 6. Address for correspondence : Govt. Polytechnic, Arvi. Distt: Wardha 7. Mobile No.: 9860445541 email : boob.pankaj2@gmail.co m 8. Academic Qualification (Bachelor Degree onwards) Sr. No. Degree Held University Year of passing 1 B.E. Amravati University, Amravati 2012 9. Research Publication : Nil 10. Faculty development programs attended  Faculty development programs on TEACHING WITH TECHNOLOGY from 08/12/2021 to 12/12/2021.  The national small industries corporation LTD. Hyderabad two week training in course of Online industrial training on CREO Software between 21/01/2021 to 04/02/2021  The national small industries corporation LTD. Hyderabad two week training in course of Online industrial training Program on IIOT from 16/03/2021 to 30/03/2021           Signature",
+        "size_bytes": 40208
+    },
+    {
+        "url": "https://gparvi.ac.in/mech/NDR.pdf",
+        "type": "pdf",
+        "title": "NDR.pdf",
+        "content": "[Page 1]\nGOVERNMENT POLYTECHNIC ARVI FACULTY TRAINING INFORMATION DEPARTMENT: MECHANICAL ENGINEERING DEPARTMENT 1. Name of the faculty member : NOOPUR DILIP ROKDE 2. Designation : LECTURER IN MECHA NICAL ENGG 3. Date of Birth & Age : 28/09/1989 & 32 YEARS 4. Date of joining Tech Ed Dept : 11/01/2012 5. Date of joining G P Arvi : 15/08/2021 6. Address for correspondence : 26/2,TIWARI LAYOUT, SHIWARPAN NAGAR, PIPRI M EGHE, WARDHA 442001 7. Mobile No.: 9637564862 email : noopurrokdegp@gmail.com 8. Academic Qualification (Bachelor Degree onwards) Sr. No. Degree Held University Year of passing Specialization 1 B.E. RTMNU 2011 MECHANICAL 2 M.E. 3. PhD 9. Research Publication : NIL 10. Details about training / seminars / workshop etc (From years 201 8-19, 2019 -20,2020 -21) A) Expert Lecture/Seminar delivered (From years 2018-19, 2019 -20,2020 -21) Sr. No. Title of Lecture / Seminar Date Venue NIL B) Worksh op / Seminar Attended (From years 2018-19, 2019 -20,2020 -21) Sr. No. Name of Workshop / Seminar Attended Date Venue Days/Week NIL\n\n[Page 2]\nC) Training attended (From years 2018-19, 201 7-18, 2016 -17) Sr. No Title ISTE/MSBTE/D TE/AICTE/YAS HADA/NITTTR/ OTHER Date Venue Days/Week 1 RENEWABLE ENRGY RESOURCES:A WAY AHEAD AICTE (15/5/2020 - 21/5/2020) ONLINE ONE WEEK 2 ENVIRONMENTAL POLLUTION & SOLUTION AICTE (5/7/2021 - 16/7/2021) ONLINE TWO WEEKS 3 ENVIRONMENTAL CHALLENGES -PROCESS & PULP INDUSTRY AICTE (23/2/2021 - 1/3/2021 ONLINE ONE WEEK 4 .CAREER GUIDANCE & COUNCELLING AICTE (27/7/2020 - 31/7/2020) ONLINE ONE WEEK 5 6 Signa ture",
+        "size_bytes": 205378
+    },
+    {
+        "url": "https://gparvi.ac.in/S.S.DANDGE_Bio_Data_-_GPARVI.pdf",
+        "type": "pdf",
+        "title": "S.S.DANDGE_Bio_Data_-_GPARVI.pdf",
+        "content": "[Page 1]\nFaculty Information a nd Contributions 1. Name of the faculty member: Ms. Shruti Sudhakar Dandge 2. Designation : Lecturer in Mechanical Engg. Dept. 3. Date of Birth & Age : 14/09/1983, 41 years 4. Date of joining Tech Ed Dept : 11/02/2011 5. Date of joining G P Arvi : 09/09/2024 6. Address for correspondence : Govt. Polytechnic, Arvi. Deurwada road , Arvi Dist: Wardha , 442201 7. Mobile No.: 963726836 /7498756707 E-mail: shruti.dandge @gmail.com 8. Academic Qualification (Bachelor Degree onwards) Sr. No. Degree held University Y Year of passing Division Specialization 1 M-Tech (Thermal Engg.) S. G.B. Amravati University 2009 I Thermal Engg. 2 GATE - 2007 Mechanical Engg. 3 B.E. (Mechanical Engg.) S. G.B. Amravati University 2006 I Mechanical Engg. 8. Research Publication : International Journals 1. Shruti Sudhakar Dandge and Shankar Chakraborty. \"A Data Mining Approach for Analysis of a Wire Electrical Discharge Machining Process.\" Management and Production Engineering Review 13 (2021). 2. Shruti Sudhakar Dandge and Shankar Chakraborty. \"Decision tree -based parametric analysis of a CNC turning process .\" Scientia Iranica 28, no. 6 (2021): 3653 -3674. 3. Dandge Shruti and Shankar Chakraborty. \"Selection of mac hining parameters in ultrasonic machining process using CART algorithm.\" In Advanced Engineering Optimization Through Intelligent Techniques, pp. 599 -607. Springer, Singapore, 2020.\n\n[Page 2]\n4. Chakraborty Shankar, Shruti Sudhakar Dandge, and Subham Agarwal. \"Non -traditional machining processes selection and evaluation: A rough multi -attributive border approximation area comparison approach .\" Computers & Industrial Engineering 139 (2020): 106201. 5. Agarwal Subham, Shruti Sudhakar Dandge, and Shankar Chakraborty. \"Development of association rules to study the parametric influences in non -traditional machining processes.\" Sādhanā 44, no. 11 (2019): 1 -17. 6. Agarwal Subham, Shruti Sudhakar Dandge, and Shankar Chakraborty. \"Parametric analysis of a grinding process using the rough sets theory .\" Facta Universitatis, Series: Mechanical Engineering 18, no. 1 (2020): 091 -106. 7. Agarwal Subham, Shruti Sudhak ar Dandge, and Prof Shankar Chakraborty. \"A support vector machine -based prediction model for electrochemical machining process.\" Karbala International Journal of Modern Science 6, no. 2 (2020): 8. 8. Ramani Juhi, Shruti Dandge, and Shankar Chakraborty \"Machinability study of plain carbon steels using data mining technique.\" In AIP Conference Proceedings , vol. 2273, no. 1, p. 050005. AIP Publishing LLC, 2020. National Journal 9. Chakraborty Shankar, Subham Agarwal, and Shruti Sudhakar Dandge. \"Analysis of cotton fibre properties: a data mining approach.\" Journal of the Institution of Engineers (India): Series E 99, no. 2 (2018): 163 -176. Conferences attended 1. International conference on Adavnced Engineering Optimization Through Intelligent Techniques at Sardar Vallabhbhai National Institute of Technology, Surat, India,August,3 -5, 2018. 2. 2nd International conference on Mechanical, Materials, and Renewable Energy (ICMMRE - 2019) at Sikkim Manipal Institute of Technology, Majitar, East Sikkim, India, December , 6-7, 2019. 3. International Conference on Precision, Meso, Micro and Nano Engineering, 13 -15 December 2024 , NIT Calicut, India. 9. Details about training / seminars / workshop etc A) Expert Lecture/Seminar delivered (From years 2022 -23, 2021 -22, 2020 -21, 2019 -20) Sr. No. Title of Lecture / Seminar Date Venue NIL\n\n[Page 3]\nB) Workshop / Seminar Attended (From years 2021 -22, 2020 -21, 2019 -20) Sr. No. Name of Workshop / Seminar Attended Date Venue Days/Week NIL C) Training attended (From years 2022 -23,2021 -22, 2020 -21, 2019 -20) Sr. No Title ISTE/MSBT E/DTE/AIC TE/YASHA DA/NITTT R/OTHER Date Venue Days/ Week 1 Data mining NPTEL 21st Feb to 15th April, 2022 - Eight weeks 2 I.C. Engines and Gas turbines NPTEL 24th Jan to 15th April, 2022 - Twelve weeks 3 Industrial Training Programme -3D Printing & Additive Manufacturing NIELIT Calicut. 23 rd Feb to 8th March, 2022 NIELIT , Calicut. 10 Days 4 Refresher Training Programme A Govt. of Maharas htra (DTE Mumbai ) 21st June to 25th June, 2021 Yashwatrao Chavan Acadamy, Pune One Week 5 Advanced Optimization Techniques for Research Problem Solving ISTE 4th August to 8th August,202 0 Mahatma Gandhi Institute of Technology One Week 6 Effective Logistic for Sustainable Environment ISTE 10th August to 14th August, 2020 Dr. B R Ambedkar National Institute of Technology Jalandhar, Punjab One Week 7 Sustainable Environment - An Engineering Perspective TEQIP -III 13th July to 18th Assam Engineering College Guwahati One Week\n\n[Page 4]\nJuly,2020 8 Waste Management & its Impact on the Environment ISTE 20th July to 25th July,2020 G H Raisoni College of Engineering, Nagpur One Week 9 Accreditation to Engineering &Professional Ethics DTE 08th July to 12th July,2020 Government College of Engineering, Nagpur One Week 10 Research and Publication Ethics ISTE 29th June to 3rd July,2020 Prof. Ram Meghe Institute of Technology & Research, Badnera , Amravati One Week 11 MATLAB for ALL ISTE 04th June to 8th June 2020 SIR M Visvesvarya Institute of Technology, Bangalore One Week 12 Recent Advances in Modelling and Optimization Techniques ISTE 1st June to 5th June2020 Sharad Institute of Technology College of Engineering Yadrav -Ichalkaranji One Week 13 Effective Online Teaching Learning Methods: Challenges, Preparation and Use of ICT Tools ISTE 18thMay to 23rdMay- 2020 Govindrao Wanjari College of Engineering & Technology, Nagpur One Week",
+        "size_bytes": 338654
+    },
+    {
+        "url": "https://gparvi.ac.in/extc/Basic_and_Applied_Electronics_Lab.pdf",
+        "type": "pdf",
+        "title": "Basic_and_Applied_Electronics_Lab.pdf",
+        "content": "[Page 1]\nBasic and Applied Electronics Lab. Laboratory Description: Faculty In -charge: Prof A. V. Patil Lab In -charge: Shri S. S. Pise Area of Lab: 96.8 m2 Major Equipment / Software: 1. CRO 2. Function Generator 3. Class -B Push Pull Amplif ier 4. Circuit Lab Trainer 5. Kelvin double bridge 6. NI-Kelvis II(Circuit design tool)",
+        "size_bytes": 516701
+    },
+    {
+        "url": "https://gparvi.ac.in/extc/Digital_Electronics_Lab.pdf",
+        "type": "pdf",
+        "title": "Digital_Electronics_Lab.pdf",
+        "content": "[Page 1]\nDigital Electronics Lab Laboratory Description : Faculty In -charge : Dr. V . J. Dongre Lab In-charge : Shri S. S. Pise Area of Lab : 96.4 m2 Major Equipment / Software : 1. DAC USING IC 0800 2. CPLD TRAINER 3. FPGA TRAINER 4. MICROCONTROLLER TRAINER 5. EPROM PROGRAMMER 6. MICROPROCESSOR TRAINER",
+        "size_bytes": 480656
+    },
+    {
+        "url": "https://gparvi.ac.in/extc/Computer_Lab.pdf",
+        "type": "pdf",
+        "title": "Computer_Lab.pdf",
+        "content": "[Page 1]\nComputer Lab Laboratory Description : Faculty In -charge : Prof. R. S. Kherdekar Lab In-charge : Shri S. S. Pise Area of Lab: 96.4 m2 Major Equipment / Software : 1. HIGH END PC INTEL PROCESSOR 2. AUTODESK MAYA SOFTWARE(10 USERS) 3. LAB VIEW SOFTWARE 4. WITH ALL ANALYSIS AND HARDWARE SUPPORT SOFTWARE",
+        "size_bytes": 460725
+    },
+    {
+        "url": "https://gparvi.ac.in/extc/Instrumentation_&_Industrial_Electronics_Lab.pdf",
+        "type": "pdf",
+        "title": "Instrumentation_&_Industrial_Electronics_Lab.pdf",
+        "content": "[Page 1]\nInstrumentation & Industrial Electronics Lab Laboratory Description : Faculty In -charge: Prof. K. A.. Saurkar Lab In -charge : Shri S. S. Pise Area of Lab: 67.36 m2 Major Equipment / Software : 1. GSM TRAINER KIT 2. DIGITAL STORAGE OSCILLOSCOPE 3. ANALOG IC TESTER 4. LIC TRAINER 5. DUAL TRACE CRO 6. LOGIC ANALYZER 7. PLC TRAINER",
+        "size_bytes": 492505
+    },
+    {
+        "url": "https://gparvi.ac.in/extc/PCB_Desgn_Lab.pdf",
+        "type": "pdf",
+        "title": "PCB_Desgn_Lab.pdf",
+        "content": "[Page 1]\nPCB Design Lab Laboratory Description : Faculty In -charge : Prof. A. V. Patil Lab In-charge : Shri S. S. Pise Area of Lab: 24 m2 Major Equipment / Software : 1. LABVIEW SOFTWARE 2. COMPUTER SYSTEM 3. DEVRLOPER UNIT 4. ETCHING MACHINE 5. DRILL MACHINE 6. ULTRASONIC EXPOSURE UNIT 7. DRAFTING BOARD",
+        "size_bytes": 290453
+    },
+    {
+        "url": "https://gparvi.ac.in/extc/Communication_Engg_Lab.pdf",
+        "type": "pdf",
+        "title": "Communication_Engg_Lab.pdf",
+        "content": "[Page 1]\nCommunication Engineering Lab Laboratory Description : Faculty In -charge : Prof. S. N. Raut Lab In-charge : Shri S. S. Pise Area of Lab : 56.4 m2 Major Equipment / Software : 1. SYNTHESIZED SIGNAL GENERATOR 2. EPABX TRAINER 3. TELEPHONE TESTER 4. VCD TRAINER 5. COLOR TV DEMONSTRATOR WITH TV 6. HI FI AMPLIFIER KIT 7. MOBILE PHONE TRAINER KIT 8. CDMA TRAINER KIT",
+        "size_bytes": 548486
+    },
+    {
+        "url": "https://gparvi.ac.in/extc/i1.pdf",
+        "type": "pdf",
+        "title": "i1.pdf",
+        "content": "[PDF - no extractable text]",
+        "size_bytes": 3505032
+    },
+    {
+        "url": "https://gparvi.ac.in/extc/i2.pdf",
+        "type": "pdf",
+        "title": "i2.pdf",
+        "content": "[PDF - no extractable text]",
+        "size_bytes": 3106118
+    },
+    {
+        "url": "https://gparvi.ac.in/extc/i3.pdf",
+        "type": "pdf",
+        "title": "i3.pdf",
+        "content": "[PDF - no extractable text]",
+        "size_bytes": 2981497
+    },
+    {
+        "url": "https://gparvi.ac.in/extc/i4.pdf",
+        "type": "pdf",
+        "title": "i4.pdf",
+        "content": "[PDF - no extractable text]",
+        "size_bytes": 4909325
+    },
+    {
+        "url": "https://gparvi.ac.in/extc/i5.pdf",
+        "type": "pdf",
+        "title": "i5.pdf",
+        "content": "[PDF - no extractable text]",
+        "size_bytes": 6345772
+    },
+    {
+        "url": "https://gparvi.ac.in/extc/i6.pdf",
+        "type": "pdf",
+        "title": "i6.pdf",
+        "content": "[PDF - no extractable text]",
+        "size_bytes": 6271230
+    },
+    {
+        "url": "https://gparvi.ac.in/extc/TT 91220.pdf",
+        "type": "pdf",
+        "title": "TT 91220.pdf",
+        "content": "[Page 1]\nGOVERNMENT POLYTECHNIC, ARVI ELECTRONICS AND COMM. ENGG. DEPTT. ODD TERM (2020-2021) w.e.f:9/12/2020 09:30 TO 10:30 10:30 TO 11:30 11:30 TO 12:30 12:30 TO I:30 01:45 TO 02:45 02:45 TOO 03:45 03:50 TO 04:50 04:50 TO 05:50 DAY SEM ECN BMSI11 DTE BMS- ETI-118 PEC RSK-ET1-119 EMI DTE ET3I IHR 11 BMS I1 MON MAR BGG 112 CSP MSR 112 EST IHR 112 MWC DNB- ETI-|14 CSP MSR-ET1-114 ETSI ECN AEL AVP 111 DTE BMS 111 AELL AVP-ET1-117 PEC EMI IHR 111 ET3I (TU) RSK 11 BMSI1 TUE MAR ESY MWC MAR ETS BGG 112 RSK 112 DNB 112 BGG- ETI1-119 R E ECN BMS-ET1-118 DTE PEC ECN EMI IHR 111 EL ET3I BMS 111 RSK 111 AVP 111 R BMS 11 WED E EST IHR 112 CSP MSR 112 MWC DNB 112 ESY RSK 112 CPP BGG/IHR/DNB MHR ETSI E E S AEL AVP 111 ECN PEC RSK 111 EMI IHR- ET1-119 S EMI ET3I BMS I111 IIR-CTI-I |9 THUR CSP MSR 112 MAR BGG 112 EST IHR 112 ESY RSK 112 ECN (TU) BMS 11 MWC DNB 112 MWC DNB-ET1-114 ETSI DTE BMS I11 PEC RSK 111 EMI IHR 111 AEL AVP 111 AEL AVP- ETI-117 ET3I FRI MWC DNB 112 CSP MSR 112 ESY ET3I RSK- FT1-102 ET31 SAT ETSI Caleai HOD shella PINCIPAL Government Time Table 1/C ELECTRONICS AND cOMM. ENGG. Polytechnic. Arvi",
+        "size_bytes": 428559
+    },
+    {
+        "url": "https://gparvi.ac.in/extc/Time Table- Even Term 2020-21.pdf",
+        "type": "pdf",
+        "title": "Time Table- Even Term 2020-21.pdf",
+        "content": "[Page 1]\nGOVERNMENT POLYTECHNIC, ARVI ELECTRONICS AND COMM. ENGG. DEPTT. EVEN TERM(2020-2021) w.t.. 22 /03/ 2021 03:50 T0 04:50 04:50 TO 05:50 09:30 10:30 11:30 TO 12:30 MAA BMS 111 wv 12:300 TO 01:30 CEL IHR 111 CND DND 112 CEL 4R 111 MAN DAY SEM T0 01145 To| 02:45 TO || T0 10:30 11:30 03:45 DCS RSK 111 02:45 MET ET1-MSR- 102 CPE EC1-BGG/DNB/117 DCS ET1 (RSK)/102 LIC ET4 AVP 111| MON CEL ET1( IHR)/119 CND ET1(DNB/119 VwV ET1(RSK)/102 BPE ET1(DNB)/114 ONS ET6I BGG 112| RSK 112 BPE OND 111 DCS RSK 111 ONS ET4 TUE ONS ET1(BGG)/119 MAA ET1 (BMS)/1198 ET6I BGG 112 DNB 112 MAA BMS 111 ETE IHR112 MAA BMS 111 ETE DCS LIC ET41 RSK 111AVP 111 WED EDE ONS CND ET6I ET1(BGG)/111 MET EC1 (BGG)/119A BGG 112 DNB 112 DCS ET1 (RSK)/ 119 CPE MSR/117 LIC ET1(AVP/117BPE ONB 111 EDE LIC AVP 111 wv RSK 112 DCS RSK 111 EDE BGG 112 ET4 THU CND DNB 112 BPE DNB 111 MAN DNB 112 CEL IHR 111 ET61 BGG 112IHR112 LIC AVP 111 MAN DNB 112 MAA BMS 111 ETE IHR112 ET41 FRI CPE EC1 ET61 ET4I ET61 BGG/DNB/MSR SAT oshell TIME TABLE 1/C HOD PXINCIPAL GOVT. PoLY.ARVI ELECTRONICS AND COMM. ENGG.",
+        "size_bytes": 637672
+    },
+    {
+        "url": "https://gparvi.ac.in/extc/tt_odd_2122.pdf",
+        "type": "pdf",
+        "title": "tt_odd_2122.pdf",
+        "content": "[Page 1]\nScanned by CamScanner",
+        "size_bytes": 308578
+    },
+    {
+        "url": "https://gparvi.ac.in/extc/tt_even_2122.pdf",
+        "type": "pdf",
+        "title": "tt_even_2122.pdf",
+        "content": "[Page 1]\nScanned by CamScanner",
+        "size_bytes": 245494
+    },
+    {
+        "url": "https://gparvi.ac.in/extc/Student Achievements 19-20.pdf",
+        "type": "pdf",
+        "title": "Student Achievements 19-20.pdf",
+        "content": "[Page 1]\n1) Student Achievements for co -curricular Activities for Academic year 2019-2020 Sr. No Name of Student Type of Competitio n Level Venue Date Remark 1 Krishna Hajare and Hrisikesh Nanote Circuit Fixer State Sipna college of Engg.Amravati 17/02/2020 Participati on 2 Krishna Hajare and Hrisikesh Nanote Project presentation 'X-ploree 20' State Jagdamba college of Engg,Yavatmal 28/02/2020 to 29/02/2020 Participati on 3 Krishna Hajare Project presentation State GP Nagpur 3/3/2020 Runner 2 Project competition Runner 2 Government Polytechnic, Nagpur",
+        "size_bytes": 320008
+    },
+    {
+        "url": "https://gparvi.ac.in/extc/fac_ach1920.pdf",
+        "type": "pdf",
+        "title": "fac_ach1920.pdf",
+        "content": "[Page 1]\nScanned by CamScanner",
+        "size_bytes": 288518
+    },
+    {
+        "url": "https://gparvi.ac.in/extc/faculty achievement-converted 2020-2021.pdf",
+        "type": "pdf",
+        "title": "faculty achievement-converted 2020-2021.pdf",
+        "content": "[Page 1]\nFaculty Training 2020 -2021 Program : Electronics and Communication Engineering Sr N o. Nameof faculty/staff Details of Training (Industrial/contentUpdating/Softs kill/Any other) Duration of Training Organizi ng body Organizing Institute 1 I.H.RAUT Four week online FDP on \"Toos forOnline Teaching learning Process \" 20-04- 2020 TO 17-05- 2020 MBTE Government Polytechnic Jalgaon 2 \"Signal , Image and Video Processing : A practical approach\" sponsered by TEQUIP III 26-05- 2020 TO 30-05- 2020 TEQUIP III GCOE Karad 3 Online FDP on\"Principle of of MODERN RADAR\" 30-06- 2020 TO 17-06- 2020 AICTE RISE Krishna Sai Prakasam Group of institutions, Ongole, Andhra Pradesh 4 Online FDP\"ACADEMIC WRITING & IPR\" 08-06- 2020 TO 12-06- 2020 ISTE SITP, Yadrav, Ichalkaranji 5 UNDER MOOC'S \"Integrated Circuits MOSFETs OPAMPs and their Application 13 JAN 2020 TO 17 JAN 2020 NPTEL NPTEL BHOPAL (Ongoing) 1 R.S.Kherde kar four week online FDP on \"Toos forOnline Teaching learning Process \" 20-04- 2020 TO 17-05- 2020 MBTE Government Polytechnic Jalgaon 2 Online Sopken Tutirial on \"eSIM,EDA tool for circuit design and simulation analysis and PCB design\" 26-05- 2020 TO 30-05- 2020 Spoken Tutorial IIT BOMBA Y Y.B.Patil Polytechnic Pune\n\n[Page 2]\n3 National Level one week FDP on \"PYTHON 3.4.3\" 04-06- 2020 To 08-06- 2020 Spoken Tutorial IIT BOMBA Y Sharad Instiute of Technology Polytechnic Yadrav ,Ichalkaranji 4 Online FDP on \"Scilab\" 12-06- 2020 TO 16 -06- 2020 AICTE Amrutvahini Polytchnic Sangamner 5 Communication skils &personality development 17-07-20 To 23-07- 2020 DTE Mumbai, MSBTE Mumbai, ISTE Government Polytechnic Hingoli 6 One week online Pedodogical Techniques in Electronics &Electrical Engg 10-08- 2020 To 14-08- 2020 TEQIP III Walchand college of Engineering,Sa ngli 7 One week online STTP on Teaching learning Pedodogies 07-9- 2020 To 12-09- 2020 AICTE (AIQS) New Delhi A.G.Patil Poytechnic Instiute Solapur 8 New emerging Trends in Data Analysis 08-02- 2021 To 13-02- 2021 AICTE (AIQS) New Delhi Government Polytechnic Nagpur 9 UNDER MOOC'S \"Integrated Circuits MOSFETs OPAMPs and their Application NPTEL NPTEL ONLINE (ONGOING) 1 A.V.Patil Online FDP on \"Scilab\" 12-06- 2020 TO 16 -06- 2020 AICTE Amrutvahini Polytchnic Sangamner 2 Online Sopken Tutirial on \"eSIM\" 26-05- 2020 TO 30-05- 2020 Spoken Tutorial IIT BOMBA Y Y-B-Patil Polytechnic Pune 3 Online FDP \"CUMMINS WEBCLAVE 2020\" 29-05- 2020 To 04- 06- 2020 ISI DELHI Section IEEE Nagpur SubSecti on Cummins College Of Engg For Women Nagpur\n\n[Page 3]\n4 National Level one week FDP on \"PYTHON 3 -4-3\" 04-06- 2020 To 08-06- 2020 Spoken Tutorial IIT BOMBA Y Sharad Instiute of Technology Polytechnic Yadrav ,Ichalkaranji 5 Online STTP \"IOT and It's Application in Industry \" 08-06- 2020 To 12-06- 2020 D.Y.Pati l Universit y Ramrao Adik Institut of Teachnology Navi Mumabi 6 Online one week FDP on \"Advances and research opportunities in E &TC Engineering \" 10-06- 2020 To 14-06- 2020 AICTE SVERI'sColleg e of Engineering ,Pandharpur 7 UNDER MOOC'S \"Integrated Circuits MOSFETs OPAMPs and their Application NPTEL NPTEL ONLINE (ONGOING) 1 Dr. D.N.Bhang e four week online FDP on \"Toos forOnline Teaching learning Process \" 20-04- 2020 TO 17-05- 2020 MBTE Government Polytechnic Jalgaon 1 B.M. SHELKE four week online FDP on \"Toos forOnline Teaching learning Process \" 20-04- 2020 TO 17-05- 2020 MBTE Government Polytechnic Jalgaon 2 Online Sopken Tutirial on \"eSIM\" 26-05- 2020 TO 30-05- 2020 Spoken Tutorial IIT BOMBA Y Y-B-Patil Polytechnic Pune 3 FDP on Solar Energy and /its application ,economical implications in indian scenario 15-06- 2020 TO 19-05- 2020 AICTE V.Y W.S colege of Engineering 4 one week National level online FDP on G suit & Allied Tools in Education 26-06- 2020 TO 04-07- 2020 AICTE SGBAU Amravati\n\n[Page 4]\n5 online InternationalFDP on \"Envirnmental Sustainability & green energy 29 -06- 2020 To 03-07- 2020 Quality Assuranc e cell Govindrao Wanjari College of Enginnering 6 One week online STTP on Teaching learning Pedodogies 03-08- 2020 To 08-08- 2020 AICTE (AIQS) New Delhi A.G.Patil Poytechnic Instiute Solapur 7 One week online Pedodogical Techniques in Electronics &Electrical Engg 10-08- 2020 To 14-08- 2020 TEQIP III Walchand college of Engineering,Sa ngli 8 NPTEL online course on 'Body language' 14-09- 2020 To 9-10- 2020 NPTEL NPTEL BHOPAL 9 NPTEL online course on 'Microelectronics -Devices to circuits' 14-09- 2020 To 4-12- 2020 NPTEL NPTEL BHOPAL 10 UNDER MOOC'S \"Integrated Circuits MOSFETs OPAMPs and their Application NPTEL NPTEL ONLINE (ONGOING) 1 M.S.Rajule NPTEL online course on 'Control Engineering' 30-3- 2020 To 28-04- 2020 NPTEL 2 four week online FDP on \"Toos forOnline Teaching learning Process \" 20/04/20 20 TO 17/05/20 20 MSBTE Government Polytechnic Jalgaon 3 Online FDP on SCILAB' 21-05- 2020 To 26-05- 2020 IIT bombay spoken tutorial PCCOE college of engineering, Nigdi, Pune 4 Online FDP on esim' 26-05- 2020 To 30-05- 2020 IIT bombay spoken tutorial Y-B- Patil Polytechnic, Akurdi, Pune\n\n[Page 5]\n5 Signal, image and video processing: A practical approach (SIVAPA -2020)' 26-05- 2020 To 30-05- 2020 AICTE TEQIP III GCOE Karad 6 Principles of modern RADAR' 03-06- 2020 to 07-06- 2020 AICTE RISE Krishna Sai Prakasam Group of institutions, Ongole, Andhra Pradesh 7 Online FDP on \"Python 3 -4-3\" 04-06- 2020 to 08-06- 2020 IIT bombay spoken tutorial 'Sharad Institute Of Technology Polytechnic, Yadrav 8 Academic writing and IPR' 08-06- 2020 to 12-06- 2020 ISTE SITP, Yadrav, Ichalkaranji 9 NPTEL online course on 'Body language' 14-09- 2020 to 9-10- 2020 NPTEL NPTEL BHOPAL 10 NPTEL online course on 'Microelectronics -Devices to circuits' 14-09- 2020 to 4-12- 2020 NPTEL NPTEL BHOPAL 11 NPTEL online course on 'Enhancing soft skills and personality' 15-02- 2021 to 9-04- 2021 NPTEL NPTEL BHOPAL (Ongoing ) 12 NPTEL online course on 'Effectice Engineering teaching in practice' 18-01- 2021 to 12-02- 2021 NPTEL NPTEL BHOPAL",
+        "size_bytes": 51729
+    },
+    {
+        "url": "https://gparvi.ac.in/extc/stu_ach_2122.pdf",
+        "type": "pdf",
+        "title": "stu_ach_2122.pdf",
+        "content": "[Page 1]\nSTUDENT ACHIEVEMENTS 2021 -22  SAHIL DABHADE ET -6I received Second Prize in State Level Video Creation Competition\n\n[Page 2]\n 05 Students from Et-6I Are Selected in Campus Placement for Bajaj Auto Limited Pune  1.Ku. Vaishnavi Charde 2. Ku. Shruti Rathi 3. Ku. Gauri Wankhede 4. Mandar Waykar 5. Vaibhav Kharde",
+        "size_bytes": 696950
+    },
+    {
+        "url": "https://gparvi.ac.in/extc/fac_ach_2122.pdf",
+        "type": "pdf",
+        "title": "fac_ach_2122.pdf",
+        "content": "[Page 1]\nFaculty Achievement Dr. Vikas Dongre, HoD Electronics and Communication received ISTE MAHARASHTRA GOA section Best Polytechnic Teacher award for the year 2020 -21\n\n[Page 2]\n.Name of staff completed Training in Academic year 21 -22 Sr No Name of Faculty Title ISTE/MSBTE/DTE/ AICTE/NITTTR Bhopal /Other Date Venue 1 Smt.R. S. Kherdekar Microelectronics Devices To Circuit NPTEL July 2021 to Oct 2021 NPTEL (Online) \"IoT: A Journey from Sensor to Server\" AICTE Training and Learning (ATAL) Academy 4Jan 2022 to 8 Jan 2022 AICTE Training and Learning (ATAL) Academy Industrial Training In additive Manufacturing & Its Application NIELIT Calicut 23 Feb to 8 March 2022 NIELIT Calicut Industrial Training In Robotics Process Automation NIELIT Aurangabad 21 March to 1 April 2022 NIELIT Aurangabad 2 Smt.A.V.Patil Industrial Training In additive Manufacturing & Its Appli cation NIELIT Calicut 23 Feb to 8 March 2022 NIELIT Calicut Industrial Training In Robotics Process Automation NIELIT Aurangabad 21 March to 1 April 2022 NIELIT Aurangabad 3 Smt.S.N.Raut Industrial Training In Robotic Process Automation NIELIT Aurangabad 23rd August to 03rd September 2021 NIELIT Aurangabad Industrial Training on “IoT Project Development using Industry Grade Microcontroller Anand Techo Creation, Satara 05th to 03rd Sept 2021 Anand Techo Creation, Satara",
+        "size_bytes": 528461
+    },
+    {
+        "url": "https://gparvi.ac.in/extc/winter_2019.pdf",
+        "type": "pdf",
+        "title": "winter_2019.pdf",
+        "content": "[Page 1]\nRESULT OF WINTER 2019 Sr no Semester /Year Name of Toppers Marks obtained % 1 First Semester ET1I Krish G. Mahorkar 83% 2 Third Semester ET3I Nikita T. Deshmukh 79% 3 Fifth Semester ET5I Nilima K. Shende 85%",
+        "size_bytes": 30102
+    },
+    {
+        "url": "https://gparvi.ac.in/extc/Result  summer 2020 even sem -converted.pdf",
+        "type": "pdf",
+        "title": "Result  summer 2020 even sem -converted.pdf",
+        "content": "[Page 1]\nGOVERNMENT POLYTECHNIC ARVI ELECTRONICS & COMMUNICATION ENGINEERING DEPARTMENT Summer 2020 Sr. No Semester /Year % Pass Name of Toppers Marks obtained % 1 Second Semester 100 Krish G. Mahorkar 88.5 2 Fourth Semester 100 Nikita Deshmukh 87.56 3 Sixth Semester 100 Nilima K. Shende 89.65",
+        "size_bytes": 30716
+    },
+    {
+        "url": "https://gparvi.ac.in/extc/winter 2020 result.pdf",
+        "type": "pdf",
+        "title": "winter 2020 result.pdf",
+        "content": "[Page 1]\nELECTRONICS & COMMUNICATION ENGINEERING DEPARTMENT RESULT OF WINTER 2020 : Sr no Semester /Year Name of Toppers Marks obtained % 1 First Semester ET1I Jayshree Arunrao Bhasme 88.14 2 Third Semester ET3I Gauri Narendra Wankhede 85.88 2 Fifth Semester ET5I Shreyash Naresh Karmore 97.57",
+        "size_bytes": 10179
+    }
+      ]      "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
       "https://gparvi.ac.in/index_files/yellow_cornar2.gif",
       "https://gparvi.ac.in/images/home1.jpg",
       "https://gparvi.ac.in/index_files/yellow_cornar1.gif",
