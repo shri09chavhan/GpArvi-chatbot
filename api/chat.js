@@ -43,14 +43,27 @@ function extractContentRecords(websiteData) {
 // Search content, headings, and titles case-insensitively.
 function searchRelevantChunks(records, question) {
   if (!question) return [];
-  const q = question.toLowerCase();
-  return records.filter(
-    (item) =>
-      (item.content && item.content.toLowerCase().includes(q)) ||
-      (item.heading && item.heading.toLowerCase().includes(q)) ||
-      (item.title && item.title.toLowerCase().includes(q))
+  // Normalize: lowercase, remove non-alphanumerics, collapse whitespace
+  const prepare = str =>
+    (str || "")
+      .toLowerCase()
+      .replace(/[^a-z0-9 ]+/g, " ")
+      .replace(/\s+/g, " ")
+      .trim();
+
+  const q = prepare(question);
+
+  return records.filter(item =>
+    prepare(item.content).includes(q) ||
+    prepare(item.heading).includes(q) ||
+    prepare(item.title).includes(q)
   );
 }
+console.log("Question (normalized):", q);
+relevantChunks.forEach(chunk => {
+  console.log("Matched chunk:", chunk);
+});
+
 
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
@@ -103,8 +116,7 @@ export default async function handler(req, res) {
           role: "system",
           content:
             "You are Celestial, the official AI assistant of Government Polytechnic Arvi, developed by Shrihari Chavhan. Answer politely " +
-            "and precisely only using provided official college data. If no relevant information is found, respond exactly with: " +
-            "'No info found in college data.'",
+            "and precisely only using provided official college data. If no relevant information is found, respond exactly with what you found in data relevant to user query",
         },
         { role: "user", content: `Context:\n${context}\n\nQuestion: ${question}` },
       ],
