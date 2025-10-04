@@ -52,18 +52,18 @@ function searchRelevantChunks(records, question) {
       .trim();
 
   const q = prepare(question);
+  console.log("Question (normalized):", q);
+relevantChunks.forEach(chunk => {
+  console.log("Matched chunk:", chunk);
+});
 
   return records.filter(item =>
     prepare(item.content).includes(q) ||
     prepare(item.heading).includes(q) ||
     prepare(item.title).includes(q)
   );
+  
 }
-console.log("Question (normalized):", q);
-relevantChunks.forEach(chunk => {
-  console.log("Matched chunk:", chunk);
-});
-
 
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
