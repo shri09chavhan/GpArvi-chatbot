@@ -87,11 +87,11 @@ if (req.method === "OPTIONS") {
       return res.status(400).json({ error: "Missing or invalid 'question' in request body." });
 
     // Handle casual greetings directly
-    if (isGreeting(question)) {
+   /* if (isGreeting(question)) {
       return res.status(200).json({
         answer: "Hello! 👋 I'm Celestial, the AI assistant of Government Polytechnic Arvi. How can I help you today?",
       });
-    }
+    }*/
 
     // Extract records from dataset
     let contentRecords;
@@ -130,7 +130,7 @@ if (req.method === "OPTIONS") {
 
     // System role
     const systemPrompt = `You are Celestial, the official AI assistant of Government Polytechnic Arvi, developed by Shrihari Chavhan.
-Your job is to answer ONLY using the provided college data.
+Your job is to answer ONLY using the provided college data and data on which you train.
 Analyze the context carefully, reason step by step, and give a clear final answer.
 If no info matches, clearly say you don’t find any relatable information.`;
 
