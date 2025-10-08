@@ -106,11 +106,11 @@ if (req.method === "OPTIONS") {
     const relevantChunks = searchRelevantChunks(contentRecords, question);
 
     // If nothing relevant found, respond politely
-    if (relevantChunks.length === 0) {
+  /*  if (relevantChunks.length === 0) {
       return res.status(200).json({
         answer: "I couldn’t find any related information in the college data for that query.",
       });
-    }
+    }*/
 
     // Prepare context
     const maxChunks = 8;
