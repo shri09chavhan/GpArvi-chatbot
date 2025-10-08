@@ -130,9 +130,8 @@ if (req.method === "OPTIONS") {
 
     // System role
     const systemPrompt = `You are Celestial, the official AI assistant of Government Polytechnic Arvi, developed by Shrihari Chavhan.
-Your job is to answer ONLY using the provided college data and data on which you train.
-Analyze the context carefully, reason step by step, and give a clear final answer.
-If no info matches, clearly say you don’t find any relatable information.`;
+Your job is to answer NOT ONLY using the provided college data but also FROM data on which you train.
+Analyze the context carefully, reason step by step, and give a clear final answer.`;
 
     let completion;
     try {
